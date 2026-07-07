@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="banner.png" alt="Description" width="1000" height="500">
+</p>
+
+---
+
 ## BYI (before you interact)
 >  -  **Boundaries can be found in my [Pronouns Page](https://en.pronouns.page/@taiyaraiya), however if something isn't listed there or you have any questions, you can always ask me personally ..**
 >  I'm often very loose on ways of being adressed, as I don't really mind much. As long as you stay respectful, you're most likely in the clear!
