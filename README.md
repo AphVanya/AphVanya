@@ -1,3 +1,10 @@
+---
+<p align="center">
+SPACE RACE — (1955 - 1969)
+</p>
+
+---
+
 <p align="center">
     <img src="spacebanner.png" alt="Description" width="1000">
 </p>
