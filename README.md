@@ -36,3 +36,7 @@ $\color{blue}{S}$ $\color{lightblue}{P}$ $\color{blue}{A}$ $\color{red}{C}$ $\co
 >  -  Hollow Knight
 >  -  Hetalia
 >  -  ARGs/puzzles, psychology, art (architecture, fashion, graphic design)
+
+---
+
+$\color{white}{UPDATED:}$ $\color{white}{8th}$ $\color{white}{July,}$ $\color{white}{2026.}$
