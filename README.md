@@ -1,6 +1,6 @@
 ---
 <p align="center">
-$\color{white}{SPACE}$ $\color{white}{RACE — (1955 - 1969)}$
+$\color{blue}{S}$ $\color{lightblue}{P}$ $\color{blue}{A}$ $\color{red}{C}$ $\color{red}{E}$ $\color{white}{R}$ $\color{white}{A}$ $\color{red}{C}$ $\color{red}{E}$ $\color{white}{—}$  $\color{white}{(1}$ $\color{white}{9}$ $\color{white}{5}$ $\color{blue}{5 - 1}$ $\color{red}{9}$ $\color{red}{6}$ $\color{red}{9)}$
 </p>
 
 ---
@@ -11,13 +11,13 @@ $\color{white}{SPACE}$ $\color{white}{RACE — (1955 - 1969)}$
 
 ---
 
-> ### $\color{white}{❝And}$ $\color{white}{the}$ $\color{white}{universe}$ $\color{white}{said}$ $\color{white}{I}$ $\color{white}{love}$ $\color{white}{you}$, $\color{white}{because}$ $\color{white}{you}$ $\color{white}{are}$ $\color{white}{love.❞}$
+> ### $\color{green}{❝And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said}$ $\color{green}{I}$ $\color{green}{love}$ $\color{green}{you,}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
 >
-> *And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed $\color{white}{better}$. And the player was the $\color{white}{universe}$. And the player was $\color{white}{love}$.
+> And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed $\color{white}{better}$. And the player was the $\color{white}{universe}$. And the player was $\color{white}{love}$.
 >
-> $\color{white}{You}$ $\color{white}{are}$ $\color{white}{the}$ $\color{white}{player.}$
+> $\color{cyan}{You}$ $\color{cyan}{are}$ $\color{cyan}{the}$ $\color{white}{player}$.
 >
-> ### $\color{white}{Wake}$ $\color{white}{up.}$
+> ### $\color{green}{Wake}$ $\color{green}{up.}$
 
 ---
 
