@@ -1,6 +1,6 @@
 ---
 <p align="center">
-.⋆ ─‎‎ ‎  $\color{blue}{S}$ $\color{lightblue}{P}$ $\color{blue}{A}$ $\color{red}{C}$ $\color{red}{E}$ ‎ ‎ $\color{white}{R}$ $\color{white}{A}$ $\color{red}{C}$ $\color{red}{E}$ ‎ $\color{white}{⋆}$ ‎  $\color{white}{(1}$ $\color{white}{9}$ $\color{white}{5}$ $\color{blue}{5 - 1}$ $\color{red}{9}$ $\color{red}{6}$ $\color{red}{9)}$ ‎ ‎ ─ ⋆.
+─ ⋆ ─‎‎ ‎  $\color{blue}{S}$ $\color{lightblue}{P}$ $\color{blue}{A}$ $\color{red}{C}$ $\color{red}{E}$ ‎ ‎ $\color{white}{R}$ $\color{white}{A}$ $\color{red}{C}$ $\color{red}{E}$ ‎ $\color{white}{⋆}$ ‎  $\color{white}{(1}$ $\color{white}{9}$ $\color{white}{5}$ $\color{blue}{5 - 1}$ $\color{red}{9}$ $\color{red}{6}$ $\color{red}{9)}$ ‎ ‎ ─ ⋆ ─
 </p>
 
 ---
