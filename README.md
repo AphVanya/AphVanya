@@ -22,11 +22,11 @@
 ---
 
 ## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！
->  -  **Boundaries can be found in my [Pronouns Page](https://en.pronouns.page/@taiyaraiya), however if something isn't listed there or you have any questions, you can always ask me personally ..**
->  I'm often very loose on ways of being adressed, as I don't really mind much. As long as you stay respectful, you're most likely in the clear!
->  -  **I'm very sociable and interaction is encouraged, however I prefer to talk in PMs rather than public chat  (W2I, C+H+K)**
+>  -  **Boundaries can be found in my [Pronouns Page](https://en.pronouns.page/@taiyaraiya), however if something isn't listed there or you have any questions, you can always $\color{white}{ask}$ $\color{white}{me}$ $\color{white}{personally}$ ..**
+>  I'm often very loose on ways of being adressed, as I don't really mind much. As long as you $\color{white}{stay}$ $\color{white}{respectful}$, you're most likely in the clear!
+>  -  **I'm very sociable and interaction is encouraged, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
 >  If we happen to share some things you also like, give me a PM in-game ..
-> - **I block freely**, you will **NOT** be blocked for having different viewpoints, kinning, shipping ect. unless you are purposefully derogatory towards others and/or support darkskips.
+> - **I block freely**, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping ect. unless you are purposefully derogatory towards others and/or support darkskips.
 
 ---
 
