@@ -33,4 +33,6 @@ SPACE RACE — (1955 - 1969)
 ## ── .✦ (Active) Interests
 >  -  Life Series, Hermitcraft, Unstable Universe, STATE <br/>
 >  -  Block Tales, ORISON <br/>
->  -  Hetalia, Hollow Knight, ARGs/puzzles, psychology, art (architecture, fashion, graphic design)
+>  -  Hollow Knight
+>  -  Hetalia
+>  -  ARGs/puzzles, psychology, art (architecture, fashion, graphic design)
