@@ -11,9 +11,9 @@ $\color{blue}{S}$ $\color{lightblue}{P}$ $\color{blue}{A}$ $\color{red}{C}$ $\co
 
 ---
 
-> ### $\color{green}{❝And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said}$ $\color{green}{I}$ $\color{green}{love}$ $\color{green}{you,}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
+> ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
 >
-> And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed $\color{white}{better}$. And the player was the $\color{white}{universe}$. And the player was $\color{white}{love}$.
+> $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{game}$ $\color{cyan}{was}$ $\color{cyan}{over}$ $\color{cyan}{and}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{woke}$ $\color{cyan}{up}$ $\color{cyan}{from}$ $\color{cyan}{the}$ $\color{cyan}{dream.}$ $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{began}$ $\color{cyan}{a}$ $\color{cyan}{new}$ $\color{cyan}{dream.}$ $\color{cyan}{And }$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{dreamed}$ $\color{cyan}{again,}$ $\color{cyan}{dreamed}$ $\color{white}{better}$. $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{was}$ $\color{cyan}{the}$ $\color{white}{universe}$. $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{was}$ $\color{white}{love}$.
 >
 > $\color{cyan}{You}$ $\color{cyan}{are}$ $\color{cyan}{the}$ $\color{white}{player}$.
 >
