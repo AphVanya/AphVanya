@@ -1,15 +1,15 @@
 
 <p align="center">
-‎‎ ‎  $\color{blue}{S}$ $\color{lightblue}{P}$ $\color{blue}{A}$ $\color{red}{C}$ $\color{red}{E}$ ‎ ‎ $\color{white}{R}$ $\color{white}{A}$ $\color{red}{C}$ $\color{red}{E}$ ‎ ‎ ─⋆✦⋆─ ‎ ‎  $\color{white}{(1}$ $\color{white}{9}$ $\color{white}{5}$ $\color{blue}{5 - 1}$ $\color{red}{9}$ $\color{red}{6}$ $\color{red}{9)}$ ‎ ‎ 
+‎‎ ‎  $\color{blue}{C}$ $\color{lightblue}{O}$ $\color{blue}{L}$ $\color{red}{D}$ ‎ ‎ $\color{white}{W}$ $\color{red}{A}$ $\color{white}{R}$ ‎ ‎ ─⋆✦⋆─ ‎ ‎  $\color{white}{(1}$ $\color{white}{9}$ $\color{white}{4}$ $\color{blue}{5 - 1}$ $\color{red}{9}$ $\color{red}{9}$ $\color{red}{1)}$ ‎ ‎ 
 </p>
 
----
+
 
 <p align="center">
-    <img src="spacebanner.png" alt="Description" width="1000">
+    <img src="banner1.png" alt="Description" width="1000">
 </p>
 
----
+
 
  ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
 
@@ -19,7 +19,9 @@
 
  ### $\color{green}{Wake}$ $\color{green}{up.}$
 
----
+ ‎ 
+ ‎ ‎
+
 
 ## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！
 >  -  **Boundaries can be found in my [Pronouns Page](https://en.pronouns.page/@taiyaraiya), however if something isn't listed there or you have any questions, you can always $\color{white}{ask}$ $\color{white}{me}$ $\color{white}{personally}$ ..**
