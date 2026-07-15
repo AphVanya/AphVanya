@@ -35,10 +35,11 @@
 ## — $\color{white}{(Active)}$ $\color{white}{Interests}$
 >  -  Life Series, Hermitcraft, Unstable Universe, STATE <br/>
 >  -  Block Tales, ORISON <br/>
->  -  Hollow Knight
->  -  Hetalia
->  -  ARGs/puzzles, psychology, art (architecture, fashion, graphic design)
+>  -  Hollow Knight, Hollow Knight: SIlksong <br/>
+>  -  Hetalia <br/>
+>  -  ARGs/puzzles, psychology, architecture, fashion, graphic design <br/>
+>  -  Will Wood, The Crane Wives, Laufey
 
 ---
 
-$\color{white}{UPDATED:}$ $\color{white}{9th}$ $\color{white}{July,}$ $\color{white}{2026.}$
+$\color{white}{UPDATED:}$ $\color{white}{15th}$ $\color{white}{July,}$ $\color{white}{2026.}$
