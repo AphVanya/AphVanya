@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="coldwartitle.png" alt="Description" width="600">
+    <img src="coldwartitle.png" alt="Description" width="500">
 </p>
 <p align="center">
     <img src="banner1.png" alt="Description" width="1000">
@@ -23,9 +23,10 @@
 ## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！
 >  -  **Boundaries can be found in my [Pronouns Page](https://en.pronouns.page/@taiyaraiya), however if something isn't listed there or you have any questions, you can always $\color{white}{ask}$ $\color{white}{me}$ $\color{white}{personally}$ ..**
 >  I'm often very loose on ways of being adressed, as I don't really mind much. As long as you $\color{white}{stay}$ $\color{white}{respectful}$, you're most likely in the clear!
->  -  **I'm very sociable and interaction is encouraged, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
+>  -  **I'm very sociable and $\color{white}{interaction}$ $\color{white}{is}$ $\color{white}{encouraged}$, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
 >  If we happen to share some things you also like, give me a PM in-game ..
-> - **I block freely**, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping ect. unless you are purposefully derogatory towards others and/or support darkships.
+>  -  **If i take a liking to you, I $\color{white}{may}$ come sit next to you if you have $\color{white}{public}$ $\color{white}{C+H}$ $\color{white}{permissions}$, otherwise I will just send a PM.**
+>  -  **$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$**, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping ect. unless you are purposefully derogatory towards others and/or support darkships.
 
 ---
 
@@ -39,4 +40,4 @@
 
 ---
 
-$\color{white}{UPDATED:}$ $\color{white}{15th}$ $\color{white}{July,}$ $\color{white}{2026.}$
+$\color{white}{UPDATED:}$ $\color{white}{18th}$ $\color{white}{July,}$ $\color{white}{2026.}$
