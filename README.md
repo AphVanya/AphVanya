@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="coldwartitle.png" alt="Description" width="700" height="200">
+    <img src="coldwartitle.png" alt="Description" width="600">
 </p>
 <p align="center">
     <img src="banner1.png" alt="Description" width="1000">
