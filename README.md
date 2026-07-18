@@ -1,10 +1,7 @@
 
 <p align="center">
-‎‎ ‎  $\color{blue}{C}$ $\color{lightblue}{O}$ $\color{blue}{L}$ $\color{red}{D}$ ‎ ‎ $\color{white}{W}$ $\color{red}{A}$ $\color{white}{R}$ ‎ ‎ ─⋆✦⋆─ ‎ ‎  $\color{white}{(1}$ $\color{white}{9}$ $\color{white}{4}$ $\color{blue}{5 - 1}$ $\color{red}{9}$ $\color{red}{9}$ $\color{red}{1)}$ ‎ ‎ 
+    <img src="coldwartitle.png" alt="Description" width="700" height="200">
 </p>
-
-
-
 <p align="center">
     <img src="banner1.png" alt="Description" width="1000">
 </p>
