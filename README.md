@@ -26,6 +26,7 @@
 >  -  **I'm very sociable and $\color{white}{interaction}$ $\color{white}{is}$ $\color{white}{encouraged}$, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
 >  If we happen to share some things you also like, give me a PM in-game ..
 >  -  **If i take a liking to you, I $\color{white}{may}$ come sit next to you if you have $\color{white}{public}$ $\color{white}{C+H}$ $\color{white}{permissions}$, otherwise I will just send a PM.**
+>  -  $\color{white}{I}$ $\color{white}{am}$ $\color{white}{not}$ a fictionkin, system nor yumeshipper, I just relate and find comfort in many characters.
 >  -  **$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$**, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping ect. unless you are purposefully derogatory towards others and/or support darkships.
 
 ---
@@ -40,4 +41,4 @@
 
 ---
 
-$\color{white}{UPDATED:}$ $\color{white}{2nd}$ $\color{white}{August,}$ $\color{white}{2026.}$
+$\color{white}{UPDATED:}$ $\color{white}{11th}$ $\color{white}{September,}$ $\color{white}{2026.}$
