@@ -2,8 +2,7 @@
     <img src="gitbanner.png" alt="Description" width="1000" height="450">
 </p>
 
-
- ‎ 
+ ‎ <p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
  ‎ 
  ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
