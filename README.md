@@ -21,7 +21,6 @@
 
 
 ## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！
->  -  **Boundaries can be found in my [Pronouns Page](https://en.pronouns.page/@taiyaraiya), however if something isn't listed there or you have any questions, you can always $\color{white}{ask}$ $\color{white}{me}$ $\color{white}{personally}$ ..**
 >  I'm often very loose on ways of being adressed, as I don't really mind much. As long as you $\color{white}{stay}$ $\color{white}{respectful}$, you're most likely in the clear!
 >  -  **I'm very sociable and $\color{white}{interaction}$ $\color{white}{is}$ $\color{white}{encouraged}$, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
 >  If we happen to share some things you also like, give me a PM in-game ..
