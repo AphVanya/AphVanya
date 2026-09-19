@@ -1,9 +1,5 @@
-
 <p align="center">
-    <img src="coldwartitle.png" alt="Description" width="500">
-</p>
-<p align="center">
-    <img src="banner1.png" alt="Description" width="1000">
+    <img src="gitbanner.png" alt="Description" width="1000">
 </p>
 
 
