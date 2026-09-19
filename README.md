@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="gitbanner.png" alt="Description" width="1000" height="450">
-</p>
 
  ‎ <p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
