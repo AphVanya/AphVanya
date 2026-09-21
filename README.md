@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="gitbanner.png" alt="Description" width="1000" height="400">
+    <img src="gitbanner.png" alt="Description" width="1000" height="400" data-canonical-src="https://taiyaraiya.straw.page">
 </p>
 
  ‎ <p align="center">
