@@ -1,6 +1,9 @@
 <img src="gitbanner.png" alt="Description" width="1000" height="400">
 
  ‎ <p align="center">
+<a href="taiyaraiya.straw.page"><img src="strawpage.png" alt="Description" width="150"></a> ‎ ‎ ‎ ‎ ‎ <a href="taiyaraiya.atabook"><img src="atabook.png" alt="Description" width="150"></a> ‎ ‎ ‎‎  ‎ ‎ <a href="en.pronouns.page/@taiyaraiya"><img src="pronouns.png" alt="Description" width="150"></a>
+
+ ‎ <p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
  ‎ 
  ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
