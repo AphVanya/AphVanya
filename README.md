@@ -1,6 +1,4 @@
-<p align="center">
-<img src="gitbanner.png" alt="Description" link="taiyaraiya.straw.page" width="1000" height="400">
-</p>
+[![Alt text](gitbanner.png)](taiyaraiya.straw.page)
 
  ‎ <p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
