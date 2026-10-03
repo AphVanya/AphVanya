@@ -21,6 +21,7 @@
 
 
 ## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！
+>  - If you don't like directly talking to people, you can always just leave a message on my ata or strawpages <3
 >  - I'm often very loose on ways of being adressed, as I don't really mind much. As long as you $\color{white}{stay}$ $\color{white}{respectful}$, you're most likely in the clear!
 >  -  **I'm very sociable and $\color{white}{interaction}$ $\color{white}{is}$ $\color{white}{encouraged}$, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
 >  If we happen to share some things you also like, give me a PM in-game ..
@@ -40,4 +41,4 @@
 
 ---
 
-$\color{white}{UPDATED:}$ $\color{white}{22nd}$ $\color{white}{September,}$ $\color{white}{2026.}$
+$\color{white}{UPDATED:}$ $\color{white}{3rd}$ $\color{white}{October,}$ $\color{white}{2026.}$
