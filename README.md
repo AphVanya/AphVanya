@@ -1,10 +1,8 @@
 <img src="gitbanner.png" alt="Description" width="1000" height="400">
+ ‎<p align="center">
+ <img src="ribbon.png" alt="Description" width="150" height="150">
 
- <p align="center">(none are linked yet, find in links tab)
- ‎ <p align="center">
-<a href="taiyaraiya.straw.page"><img src="strawpage.png" alt="Description" width="150"></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="taiyaraiya.atabook"><img src="atabook.png" alt="Description" width="150"></a> ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ <a href="en.pronouns.page/@taiyaraiya"><img src="pronouns.png" alt="Description" width="150"></a>
-
- ‎ <p align="center">
+ ‎<p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
  ‎ 
  ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
@@ -14,6 +12,7 @@
  $\color{cyan}{You}$ $\color{cyan}{are}$ $\color{cyan}{the}$ $\color{white}{player}$.
 
  ### $\color{green}{Wake}$ $\color{green}{up.}$
+  
  
 
  ‎ 
