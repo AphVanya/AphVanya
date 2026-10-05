@@ -35,7 +35,7 @@
 >  -  Block Tales, ORISON <br/>
 >  -  Hollow Knight, Hollow Knight: SIlksong, Z.A.T.O. <br/>
 >  -  Hetalia, Hamilton <br/>
->  -  ARGs/puzzles, psychology, architecture, fashion, graphic design <br/>
+>  -  ARGs/puzzles, psychology, architecture, graphic design & digital design, 3D modeling <br/>
 >  -  Will Wood, The Crane Wives, Laufey
 
 ---
