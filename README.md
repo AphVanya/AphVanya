@@ -1,7 +1,10 @@
 <img src="gitbanner.png" alt="Description" width="1000" height="400">
  ‎<p align="center">
- <img src="ribbon.png" alt="Description" width="150" height="150">
-
+<p align="center">
+<a href="https://taiyaraiya.atabook.org">
+<img src="ribbon.png" alt="Description" width="150" height="150">
+</a>
+ 
  ‎<p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
  ‎ 
