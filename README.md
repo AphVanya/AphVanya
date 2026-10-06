@@ -34,13 +34,18 @@
 ## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！<p align="center">
 <img src="divider1.png" alt="Description" width="350" height="100">
 
->  - If you don't like directly talking to people, you can always just leave a message on my ata or strawpages <3
->  - I'm often very loose on ways of being adressed, as I don't really mind much. As long as you $\color{white}{stay}$ $\color{white}{respectful}$, you're most likely in the clear!
+> [!IMPORTANT]
 >  -  **I'm very sociable and $\color{white}{interaction}$ $\color{white}{is}$ $\color{white}{encouraged}$, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
 >  If we happen to share some things you also like, give me a PM in-game ..
+>  - I'm often very loose on ways of being adressed, as I don't really mind much. As long as you $\color{white}{stay}$ $\color{white}{respectful}$, you're most likely in the clear!
+
+> [!NOTE]
+>  - If you don't like directly talking to people, you can always just leave a message on my ata or strawpages <3
 >  -  **If i take a liking to you, I $\color{white}{may}$ come sit next to you if you have $\color{white}{public}$ $\color{white}{C+H}$ $\color{white}{permissions}$, otherwise I will just send a PM.**
+
+> [!CAUTION]
 >  -  $\color{white}{I}$ $\color{white}{am}$ $\color{white}{not}$ a roleplay account, fictionkin, system nor yumeshipper, I just relate and find comfort in many characters.
->  -  **$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$**, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping ect. unless you are purposefully derogatory towards others and/or support darkships.
+>  -  **$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$**, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping, liking specific fandoms, ect. unless you are purposefully derogatory towards others and/or support darkships.
 
 ---
 
@@ -59,3 +64,5 @@
 $\color{white}{UPDATED:}$ $\color{white}{6th}$ $\color{white}{October,}$ $\color{white}{2026.}$
 
 <img width="350" height="60" alt="image" src="https://github.com/user-attachments/assets/614adcb0-112e-4b73-93ef-1f1d4affae39" />
+
+<!-- thanks for reading, all content from my git is free to use and you can take inspiration off of it !! <3 -->
