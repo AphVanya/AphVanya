@@ -13,9 +13,11 @@
 <a href="https://taiyaraiya.atabook.org">
 <img src="ribbon.png" alt="Description" width="150" height="150">
 </a>
- 
+
  ‎<p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
+
+<img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/2c8a4421-0071-4d18-b32a-20caa40fa7ae" />
 
  ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
 
@@ -57,3 +59,5 @@
 ---
 
 $\color{white}{UPDATED:}$ $\color{white}{3rd}$ $\color{white}{October,}$ $\color{white}{2026.}$
+
+<img width="500" height="50" alt="image" src="https://github.com/user-attachments/assets/751df89f-50b6-4008-b3bb-b0b60341ef4f" />
