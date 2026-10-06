@@ -17,8 +17,6 @@
  ‎<p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
 
-<img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/2c8a4421-0071-4d18-b32a-20caa40fa7ae" />
-
  ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
 
  $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{game}$ $\color{cyan}{was}$ $\color{cyan}{over}$ $\color{cyan}{and}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{woke}$ $\color{cyan}{up}$ $\color{cyan}{from}$ $\color{cyan}{the}$ $\color{cyan}{dream.}$ $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{began}$ $\color{cyan}{a}$ $\color{cyan}{new}$ $\color{cyan}{dream.}$ $\color{cyan}{And }$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{dreamed}$ $\color{cyan}{again,}$ $\color{cyan}{dreamed}$ $\color{white}{better}$. $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{was}$ $\color{cyan}{the}$ $\color{white}{universe}$. $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{was}$ $\color{white}{love}$.
@@ -58,6 +56,6 @@
 
 ---
 
-$\color{white}{UPDATED:}$ $\color{white}{3rd}$ $\color{white}{October,}$ $\color{white}{2026.}$
+$\color{white}{UPDATED:}$ $\color{white}{6th}$ $\color{white}{October,}$ $\color{white}{2026.}$
 
-<img width="500" height="50" alt="image" src="https://github.com/user-attachments/assets/751df89f-50b6-4008-b3bb-b0b60341ef4f" />
+<img width="350" height="60" alt="image" src="https://github.com/user-attachments/assets/614adcb0-112e-4b73-93ef-1f1d4affae39" />
