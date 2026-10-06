@@ -1,5 +1,14 @@
+<p align="center">
+<a href="https://taiyaraiya.straw.page">
 <img src="gitbanner.png" alt="Description" width="1000" height="400">
- ‎<p align="center">
+</a>
+  
+ 
+
+ ‎ 
+ ‎ ‎
+
+
 <p align="center">
 <a href="https://taiyaraiya.atabook.org">
 <img src="ribbon.png" alt="Description" width="150" height="150">
@@ -7,7 +16,7 @@
  
  ‎<p align="center">
 [« I wrote a story for a friend. »](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend)
- ‎ 
+
  ### $\color{green}{And}$ $\color{green}{the}$ $\color{green}{universe}$ $\color{green}{said,}$ $\color{green}{❝I}$ $\color{green}{love}$ $\color{green}{you}$ $\color{green}{because}$ $\color{green}{you}$ $\color{green}{are}$ $\color{green}{love.❞}$
 
  $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{game}$ $\color{cyan}{was}$ $\color{cyan}{over}$ $\color{cyan}{and}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{woke}$ $\color{cyan}{up}$ $\color{cyan}{from}$ $\color{cyan}{the}$ $\color{cyan}{dream.}$ $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{began}$ $\color{cyan}{a}$ $\color{cyan}{new}$ $\color{cyan}{dream.}$ $\color{cyan}{And }$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{dreamed}$ $\color{cyan}{again,}$ $\color{cyan}{dreamed}$ $\color{white}{better}$. $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{was}$ $\color{cyan}{the}$ $\color{white}{universe}$. $\color{cyan}{And}$ $\color{cyan}{the}$ $\color{cyan}{player}$ $\color{cyan}{was}$ $\color{white}{love}$.
@@ -22,7 +31,9 @@
  ‎ ‎
 
 
-## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！
+## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！<p align="center">
+<img src="divider1.png" alt="Description" width="350" height="100">
+
 >  - If you don't like directly talking to people, you can always just leave a message on my ata or strawpages <3
 >  - I'm often very loose on ways of being adressed, as I don't really mind much. As long as you $\color{white}{stay}$ $\color{white}{respectful}$, you're most likely in the clear!
 >  -  **I'm very sociable and $\color{white}{interaction}$ $\color{white}{is}$ $\color{white}{encouraged}$, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
@@ -34,6 +45,8 @@
 ---
 
 ## — $\color{white}{(Active)}$ $\color{white}{Interests}$
+<img src="divider1.png" alt="Description" width="350" height="100">
+
 >  -  Life Series, Hermitcraft, Unstable Universe, STATE <br/>
 >  -  Block Tales, ORISON <br/>
 >  -  Hollow Knight, Hollow Knight: SIlksong, Z.A.T.O. <br/>
