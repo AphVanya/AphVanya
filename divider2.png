@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)https://hollowknight.wiki/w/Template:Hr -->
+<html class="client-js ve-not-available" lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Template:Hr - Hollow Knight Wiki</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )enhkwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e5d4863f86ff45d712e7988b","wgCanonicalNamespace":"Template","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":10,"wgPageName":"Template:Hr","wgTitle":"Hr","wgCurRevisionId":116503,"wgRevisionId":116503,"wgArticleId":3393,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using DynamicPageList4 dplvar parser function","Templates"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Template:Hr","wgRelevantArticleId":3393,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":[],"wgCiteReferencePreviewsActive":false,"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgMFDisplayWikibaseDescriptions":{"search":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"wgEditSubmitButtonLabelPublish":false,"wgSiteNoticeId":"1.0"};
+RLSTATE={"ext.gadget.site-styles":"ready","site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.protectionIndicators.styles":"ready","skins.vector.styles.legacy":"ready","ext.embedVideo.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.abxyads":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.checkUser.clientHints","ext.collapsiblevector.collapsibleNav","ext.embedVideo.overlay","ext.gadget.discord-button","ext.gadget.icon-masking","ext.gadget.Tabs","ext.gadget.Bandcamp","ext.gadget.IndieWikiBudy","ext.gadget.TableChecklist","ext.gadget.SectionLinks","ext.gadget.ReferenceTooltips","ext.gadget.code-links","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="./divider2_files/load.php">
+<script async="" src="./divider2_files/load(1).php"></script>
+<style>
+.mw-editfont-monospace{font-family:monospace,monospace}.mw-editfont-sans-serif{font-family:sans-serif}.mw-editfont-serif{font-family:serif} .mw-editfont-monospace,.mw-editfont-sans-serif,.mw-editfont-serif{  font-size:13px; -moz-tab-size:4;tab-size:4; }.mw-editfont-monospace.oo-ui-textInputWidget,.mw-editfont-sans-serif.oo-ui-textInputWidget,.mw-editfont-serif.oo-ui-textInputWidget{font-size:inherit}.mw-editfont-monospace.oo-ui-textInputWidget > .oo-ui-inputWidget-input,.mw-editfont-sans-serif.oo-ui-textInputWidget > .oo-ui-inputWidget-input,.mw-editfont-serif.oo-ui-textInputWidget > .oo-ui-inputWidget-input{  font-size:13px}.mw-editfont-monospace.oo-ui-textInputWidget > input.oo-ui-inputWidget-input,.mw-editfont-sans-serif.oo-ui-textInputWidget > input.oo-ui-inputWidget-input,.mw-editfont-serif.oo-ui-textInputWidget > input.oo-ui-inputWidget-input{min-height:32px}
+#mw-panel.collapsible-nav .portal{   }#mw-panel.collapsible-nav .portal .vector-menu-heading{background-position:left center;background-repeat:no-repeat;background-image:url(/mw/extensions/CollapsibleVector/modules/images/arrow-expanded.svg?792a9);background-size:auto;padding:4px 0 3px 1.5em}#mw-panel.collapsible-nav .portal .vector-menu-heading:hover{cursor:pointer;text-decoration:none}#mw-panel.collapsible-nav .portal .vector-menu-heading a{color:#4d4d4d;text-decoration:none}#mw-panel.collapsible-nav .portal .vector-menu-content{margin:0 0 0 1.25em;background-image:none !important;padding-top:0;display:none}#mw-panel.collapsible-nav .portal .vector-menu-content ul li{padding:0.25em 0}#mw-panel.collapsible-nav .portal.first{background-image:none;margin-top:0}#mw-panel.collapsible-nav .portal.first .vector-menu-heading{display:none}#mw-panel.collapsible-nav .portal.persistent .vector-menu-content{display:block;margin-left:0.5em}#mw-panel.collapsible-nav .portal.persistent .vector-menu-heading{background-image:none !important;padding-left:0.7em;cursor:default}#mw-panel.collapsible-nav .portal.collapsed .vector-menu-heading{color:#0645ad;background-position:left center;background-repeat:no-repeat;background-image:url(/mw/extensions/CollapsibleVector/modules/images/arrow-collapsed-ltr.svg?c8d0f)}#mw-panel.collapsible-nav .portal.collapsed .vector-menu-heading:hover{text-decoration:underline}#mw-panel.collapsible-nav .portal.collapsed .vector-menu-heading a{color:#0645ad}
+.embedvideo-consent .hidden{opacity:0;pointer-events:none;visibility:hidden}.embedvideo-overlay{position:relative;display:flex;width:100%;height:100%;align-items:center;justify-content:center;color:#54595d;font-size:0.875rem;user-select:none}.embedvideo-overlay > div{position:absolute;top:0;right:0;bottom:0;left:0;transition:opacity 250ms ease}.embedvideo-loader{display:grid;cursor:pointer}.embedvideo-loader__title{overflow:hidden;padding:0.75rem;color:#eaecf0;text-align:start;text-overflow:ellipsis;white-space:nowrap}.embedvideo-loader__fakeButton{padding:0.5rem 1rem;border-radius:1000px;background-color:rgba(0,0,0,0.6);color:#fff;cursor:pointer;place-self:center;transition:background-color 250ms ease}.embedvideo-loader__footer{display:flex;align-self:end;justify-content:space-between;padding:0.5rem;font-size:0.8125rem}.embedvideo-loader__footer > div{padding:0.25rem 0.5rem;border-radius:0.25rem;background-color:rgba(0,0,0,0.6);color:#eaecf0}.embedvideo-loader__title,.embedvideo-loader__footer{right:0;left:0;font-weight:bold;transition:opacity 250ms ease}.embedvideo-loader__title,.embedvideo-loader__fakeButton,.embedvideo-loader__footer{position:absolute}.embedvideo-loader:hover .embedvideo-loader__fakeButton{background-color:#36c}.embedvideo-thumbnail{position:absolute;top:0;left:0;width:100%;height:100%}.embedvideo-thumbnail__image{width:inherit;height:inherit;object-fit:cover}.embedvideo-thumbnail + .embedvideo-overlay .embedvideo-loader{color:#eaecf0}.embedvideo-thumbnail + .embedvideo-overlay .embedvideo-loader__title{background:linear-gradient(to bottom,#000,40%,transparent)}.embedvideo-privacyNotice{display:flex;flex-direction:column;justify-content:center;padding:1rem;background-color:rgba(0,0,0,0.6);color:#eaecf0;gap:0.5rem;text-align:center}.embedvideo-privacyNotice__link{color:#eaf3ff;text-decoration:underline}.embedvideo-privacyNotice__buttons > button{padding:0.5rem 1rem;border:0;border-radius:1000px;appearance:none;color:#fff;cursor:pointer;font-size:inherit}.embedvideo-privacyNotice__continue{background-color:#36c}.embedvideo-privacyNotice__continue:hover{background-color:#447ff5}.embedvideo-privacyNotice__continue:active{background-color:#2a4b8d}.embedvideo-privacyNotice__dismiss{background-color:transparent}.embedvideo-privacyNotice__dismiss:hover{color:#d33}.embedvideo-privacyNotice__dismiss:active{color:#b32424}[data-service='local-embed'] .embedvideo-consent{background-color:transparent}.center .floatnone > .embedvideo{margin:0 auto}
+.ve-init-mw-progressBarWidget{height:1em;overflow:hidden;margin:0 25%}.ve-init-mw-progressBarWidget-bar{height:1em;width:0} .ve-init-mw-progressBarWidget{background-color:#fff;box-sizing:border-box;height:0.875em;border:1px solid #36c;border-radius:0.875em;box-shadow:0 1px 1px rgba(0,0,0,0.15)}.ve-init-mw-progressBarWidget-bar{background-color:#36c;height:0.875em}
+#p-personal.has-discord-button{justify-content:space-between}#wiki-discord-button{--color-blurple:#5865f2;--color-on-blurple:#e0e3ff;box-shadow:0px 1px 5px 0px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 3px 1px -2px rgba(0,0,0,0.12);align-items:center;background-color:var(--color-blurple);border-radius:0.25rem;color:var(--color-on-blurple);display:flex;font:700 .875rem/1.25rem var(--font-body-sans-serif);gap:0.5em;padding:0 0.675em;position:relative;text-decoration:none;text-shadow:none}#wiki-discord-button::before{--discord-logo:url(https://cdn.wikimg.net/en/hkwiki/images/7/76/Discord-logo.svg);--icon-mask:center/contain no-repeat var(--discord-logo);background-color:currentColor;content:'';display:inline-block;height:1em;-webkit-mask:var(--icon-mask);mask:var(--icon-mask);width:1em}#wiki-discord-button:hover{box-shadow:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12)}#wiki-discord-button:is(:focus,:active){box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12)}@supports (color:rgb(from #fff r g b)){#wiki-discord-button:hover{background-color:oklch(from var(--color-blurple) calc(l + 0.08) c h)}#wiki-discord-button:is(:focus,:active){background-color:oklch(from var(--color-blurple) calc(l + 0.16) c h)}}
+.mw-mask-icon{--icon-mask:center/contain no-repeat var(--icon);background:none !important;background-color:currentColor !important;-webkit-mask:var(--icon-mask);mask:var(--icon-mask)}
+.iwb-download{background:#2d64c2;cursor:pointer;display:inline-flex;font-weight:600;font-size:1.5em;padding:.5em 1em;position:relative}.iwb-download > div{align-items:center;display:flex;gap:.5em}.mw-parser-output .iwb-download a:not(.mw-selflink),.mw-parser-output .iwb-download a:not(.mw-selflink):visited{all:unset;color:white}.iwb-download a::before{color:white;content:'';height:100%;left:0;position:absolute;top:0;width:100%}.mw-parser-output .iwb-download a.external::after{display:none}
+table.tpt-table > tbody > .tpt-table-row:has(.tpt-checkbox > .oo-ui-inputWidget-input:checked) > td{animation:checked-row 500ms ease-out forwards}table.tpt-table > tbody > .tpt-table-row:has(.tpt-checkbox-cell[rowspan='2'] .tpt-checkbox > .oo-ui-inputWidget-input:checked) + tr > td{animation:checked-row 500ms ease-out forwards}table.tpt-table .tpt-checkbox-field-layout.oo-ui-fieldLayout.oo-ui-fieldLayout-align-inline > .oo-ui-fieldLayout-body > .oo-ui-fieldLayout-field{width:unset}table.tpt-table:not([data-tpt-show-labels]) .oo-ui-fieldLayout-header{opacity:0;pointer-events:none;position:absolute}table.tpt-table.jquery-tablesorter th.headerSort .oo-ui-labelElement-label{cursor:pointer}table.tpt-table.jquery-tablesorter th.headerSort:has(> .tpt-checkbox-field-layout){padding:0.375rem 0.75rem} table.tpt-table.jquery-tablesorter .tpt-checkbox-field-layout,table.tpt-table.jquery-tablesorter[data-tpt-show-labels] th.headerSort > .tpt-checkbox-field-layout,table.tpt-table.jquery-tablesorter th.headerSort:has(> .tpt-checkbox-field-layout)::after{display:inline-block;vertical-align:middle}table.tpt-table.jquery-tablesorter th.headerSort:has(> .tpt-checkbox-field-layout) > .tpt-checkbox-field-layout{pointer-events:initial}@keyframes checked-row{from{background-color:rgba(var(--theme-green),0.16);color:rgb(var(--theme-green))}to{background-color:rgba(var(--theme-green),0.08);color:reverse}}.tpt-checkbox-cell-has-tutorial{position:relative}.tpt-tutorial-button-container{bottom:0;position:absolute;right:0;z-index:10}.tpt-tutorial-button{align-items:center;background-color:rgb(var(--theme-accent));border-radius:50%;cursor:pointer;display:flex;height:12px;justify-content:center;transform:translate(50%,50%);width:12px}.tpt-tutorial-button::before{animation:mw-pulsating-dot-pulse 3s ease-out infinite;background-color:inherit;border-radius:inherit;content:'';display:inherit;height:36px;opacity:0;transform:scale(0);pointer-events:none;position:absolute;width:36px}@keyframes mw-pulsating-dot-pulse{0%{transform:scale(0);opacity:0}25%{transform:scale(0);opacity:0.1}50%{transform:scale(0.1);opacity:0.3}75%{transform:scale(0.5);opacity:0.5}100%{transform:scale(1);opacity:0}}.tpt-tutorial-dialog .oo-ui-window-frame{height:fit-content !important}.tpt-tutorial-dialog :is(.oo-ui-window-content,.oo-ui-dialog-content > .oo-ui-window-head,.oo-ui-dialog-content > .oo-ui-window-body,.oo-ui-dialog-content > .oo-ui-window-foot,.oo-ui-panelLayout-expanded){position:initial}.tpt-tutorial-dialog .oo-ui-messageDialog-container::before{aspect-ratio:768/444;background:url(https://upload.wikimedia.org/wikipedia/commons/8/83/Mw-gadget-table-checklists-demo-dark.png) center/contain no-repeat;content:'';display:block;height:auto;width:100%} .wikitable .tpt-checkbox-cell{padding:0.563rem}
+:is(h1,h2,h3,h4,h5,h6){overflow:unset}:is(h1,h2,h3,h4,h5,h6):is(:hover,:focus-within) .copy-button-container .copy-button{opacity:1}.copy-button-container{cursor:pointer;display:inline-block;height:1.5rem;margin-left:1rem;position:relative;vertical-align:middle;width:1.5rem}.copy-button-container .copy-button{display:block;fill:currentcolor;height:100%;opacity:0;outline:2px solid rgba(255,255,255,0);transition:filter 200ms,opacity 200ms;width:100%}.copy-button-container .copy-button:is(:hover,:focus){filter:drop-shadow(0 0 0.25rem #fff);transition:filter 300ms}.copy-button-container .copy-button::before{content:"";height:2rem;left:50%;position:absolute;top:50%;transform:translate(-50%,-50%);width:2rem}.copy-button-container .copy-button .headline-icon{display:block;height:inherit;pointer-events:none;width:inherit}.copy-button-container .copy-button.active:is(:hover,:focus-within) + .tooltip .activated{opacity:1;visibility:visible}.copy-button-container .tooltip{font:400 .875rem/1.5rem var(--font-body-sans-serif);letter-spacing:.03125em;left:50%;pointer-events:none;position:absolute;top:0;white-space:nowrap}.copy-button-container .tooltip .activated,.copy-button-container .tooltip .deactivated{background-color:#212121;opacity:0;padding:0.25rem 0.75rem;position:absolute;transform:translate(-50%,calc(-100% - 0.5rem));visibility:hidden}.copy-button-container:not(.active):is(:hover,:focus-within) .tooltip .deactivated{opacity:1;visibility:visible}body.skin-timeless .copy-button-container{margin-left:auto}body.skin-timeless .copy-button-container .copy-button{opacity:1}
+.rt-overlay{position:absolute;width:100%;font-size:calc(var(--font-size-medium,1rem) * (13 / 14));line-height:1.5em; z-index:800; top:0} .skin-vector-legacy .rt-overlay{font-size:13px}.skin-monobook .rt-overlay{font-size:12.7px}.rt-tooltip{position:absolute;max-width:27em;background-color:rgb(var(--theme-background-secondary));color:rgb(var(--theme-on-background));border:1px solid rgba(var(--theme-border),.16);border-radius:2px;box-shadow:0 20px 48px 0 rgba(0,0,0,0.2)}html.skin-theme-clientpref-night .rt-tooltip{box-shadow:0 20px 48px 0 rgba(0,0,0,1)} .rt-tooltip-above .rt-hoverArea{margin-bottom:-0.6em;padding-bottom:0.6em}.rt-tooltip-below .rt-hoverArea{margin-top:-0.7em;padding-top:0.7em}.rt-scroll{overflow-x:auto}.rt-content{padding:0.7em 0.9em;overflow-wrap:break-word}.rt-tail{ background:rgb(var(--theme-background-secondary));border-left:1px solid var(--wiki-content-border-color);border-bottom:1px solid var(--wiki-content-border-color);--tail-left:19px;--tail-side-width:13px}.rt-tail{position:absolute; z-index:-1;width:var(--tail-side-width);height:var(--tail-side-width)}.rt-tooltip-above .rt-tail{transform:rotate(-45deg);transform-origin:100% 100%;bottom:0;left:var(--tail-left)}.rt-tooltip-below .rt-tail{transform:rotate(135deg);transform-origin:0 0;top:0;left:calc(var(--tail-left) + var(--tail-side-width))}.rt-settingsLink{--icon:url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%0D%0A%20%20%20%20%3Cpath%20fill%3D%22%23000000%22%20d%3D%22M20%2014.5v-2.9l-1.8-.3c-.1-.4-.3-.8-.6-1.4l1.1-1.5-2.1-2.1-1.5%201.1c-.5-.3-1-.5-1.4-.6L13.5%205h-2.9l-.3%201.8c-.5.1-.9.3-1.4.6L7.4%206.3%205.3%208.4l1%201.5c-.3.5-.4.9-.6%201.4l-1.7.2v2.9l1.8.3c.1.5.3.9.6%201.4l-1%201.5%202.1%202.1%201.5-1c.4.2.9.4%201.4.6l.3%201.8h3l.3-1.8c.5-.1.9-.3%201.4-.6l1.5%201.1%202.1-2.1-1.1-1.5c.3-.5.5-1%20.6-1.4l1.5-.3zM12%2016c-1.7%200-3-1.3-3-3s1.3-3%203-3%203%201.3%203%203-1.3%203-3%203z%22%2F%3E%0D%0A%3C%2Fsvg%3E);background:var(--wiki-content-border-color);float:right;margin:-0.5em -0.5em 0 0.5em;box-sizing:border-box;height:32px;width:32px;border:1px solid transparent;border-radius:2px;background-position:center center;background-repeat:no-repeat;background-size:24px 24px;-webkit-mask:var(--icon);mask:var(--icon)}html.skin-theme-clientpref-night .rt-settingsLink{background-image:url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%0D%0A%20%20%20%20%3Cpath%20fill%3D%22%23c8ccd1%22%20d%3D%22M20%2014.5v-2.9l-1.8-.3c-.1-.4-.3-.8-.6-1.4l1.1-1.5-2.1-2.1-1.5%201.1c-.5-.3-1-.5-1.4-.6L13.5%205h-2.9l-.3%201.8c-.5.1-.9.3-1.4.6L7.4%206.3%205.3%208.4l1%201.5c-.3.5-.4.9-.6%201.4l-1.7.2v2.9l1.8.3c.1.5.3.9.6%201.4l-1%201.5%202.1%202.1%201.5-1c.4.2.9.4%201.4.6l.3%201.8h3l.3-1.8c.5-.1.9-.3%201.4-.6l1.5%201.1%202.1-2.1-1.1-1.5c.3-.5.5-1%20.6-1.4l1.5-.3zM12%2016c-1.7%200-3-1.3-3-3s1.3-3%203-3%203%201.3%203%203-1.3%203-3%203z%22%2F%3E%0D%0A%3C%2Fsvg%3E)}.rt-settingsLink:hover,.rt-settingsLink:active{background-color:var(--background-color-interactive,#eaecf0)}.rt-settingsLink:active{border-color:var(--border-color-interactive,#72777d)}.rt-settingsLink:focus{outline:1px solid transparent}.rt-settingsLink:focus:not(:active){border-color:var(--border-color-progressive--focus,#36c);box-shadow:inset 0 0 0 1px var(--box-shadow-color-progressive--focus,#36c)}.rt-target{background-color:var(--background-color-progressive-subtle,#eaf3ff)}.rt-enableField{font-weight:bold;margin-bottom:1.25em}.rt-numberInput.rt-numberInput{width:10em}.rt-tooltipsForCommentsField.rt-tooltipsForCommentsField.rt-tooltipsForCommentsField{margin-top:1.25em}.rt-disabledHelp{border-collapse:collapse}.rt-disabledHelp td{padding:0}.rt-disabledNote.rt-disabledNote{vertical-align:bottom;padding-left:0.36em;font-weight:bold}@keyframes rt-fade-in-up{0%{opacity:0;transform:translate(0,20px)}100%{opacity:1;transform:translate(0,0)}}@keyframes rt-fade-in-down{0%{opacity:0;transform:translate(0,-20px)}100%{opacity:1;transform:translate(0,0)}}@keyframes rt-fade-out-down{0%{opacity:1;transform:translate(0,0)}100%{opacity:0;transform:translate(0,20px)}}@keyframes rt-fade-out-up{0%{opacity:1;transform:translate(0,0)}100%{opacity:0;transform:translate(0,-20px)}}.rt-fade-in-up{animation:rt-fade-in-up 0.2s ease forwards}.rt-fade-in-down{animation:rt-fade-in-down 0.2s ease forwards}.rt-fade-out-down{animation:rt-fade-out-down 0.2s ease forwards}.rt-fade-out-up{animation:rt-fade-out-up 0.2s ease forwards}
+#mw-teleport-target{position:absolute;z-index:450}</style><style>
+.ve-init-mw-tempWikitextEditorWidget{border:0;padding:0;color:inherit;line-height:1.5em;width:100%;-moz-tab-size:4;tab-size:4;  }.ve-init-mw-tempWikitextEditorWidget:focus{outline:0;padding:0}.ve-init-mw-tempWikitextEditorWidget::selection{background:rgba(109,169,247,0.5); }</style><style>
+.ve-active .ve-init-mw-desktopArticleTarget-targetContainer #siteNotice,.ve-active .mw-indicators,.ve-active #t-print,.ve-active #t-permalink,.ve-active #p-coll-print_export,.ve-active #t-cite,.ve-active .ve-init-mw-desktopArticleTarget-editableContent,.ve-active .ve-init-mw-tempWikitextEditorWidget{display:none}.ve-deactivating .ve-ui-surface{display:none}.ve-activating{ }.ve-activating .ve-ui-surface{height:0;padding:0 !important; overflow:hidden} .ve-loading .ve-init-mw-desktopArticleTarget-targetContainer > :not(.ve-init-mw-desktopArticleTarget-toolbarPlaceholder):not(.ve-init-mw-desktopArticleTarget),.ve-loading .ve-init-mw-desktopArticleTarget-originalContent,.ve-activated:not(.ve-loading) .ve-init-mw-desktopArticleTarget-uneditableContent{pointer-events:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;opacity:0.5}.ve-activated .ve-init-mw-desktopArticleTarget-targetContainer #firstHeading{ -webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;pointer-events:auto;cursor:text}.ve-activated .ve-init-mw-desktopArticleTarget-targetContainer #firstHeading a{ pointer-events:none}.ve-activated .ve-init-mw-desktopArticleTarget-originalContent #catlinks{cursor:pointer}.ve-activated .ve-init-mw-desktopArticleTarget-originalContent #catlinks:hover{ background:#e9f2fd}.ve-activated .ve-init-mw-desktopArticleTarget-originalContent #catlinks a{opacity:1} .ve-init-mw-desktopArticleTarget-loading-overlay{z-index:2;position:absolute;width:100%;top:1em}.ve-init-mw-desktopArticleTarget-toolbarPlaceholder{overflow:hidden;transition:height 250ms ease;height:0;padding-bottom:2px; }.ve-init-mw-desktopArticleTarget-toolbarPlaceholder-bar{transform:translateY(-100%);transition:transform 250ms ease}.ve-init-mw-desktopArticleTarget-toolbarPlaceholder-open .ve-init-mw-desktopArticleTarget-toolbarPlaceholder-bar{transform:translateY(0)}.ve-init-mw-desktopArticleTarget-toolbarPlaceholder-floating{transition:none}.ve-init-mw-desktopArticleTarget-toolbarPlaceholder-floating .ve-init-mw-desktopArticleTarget-toolbarPlaceholder-bar{position:fixed;top:0;z-index:1;background:var(--background-color-base,#fff)} .oo-ui-element-hidden{display:none !important; } .mw-editsection::before{content:'\200B'}.mw-editsection a{white-space:nowrap} .ve-init-mw-desktopArticleTarget-toolbarPlaceholder-bar{height:42px;border-bottom:1px solid #c8ccd1;box-shadow:0 1px 1px 0 rgba(0,0,0,0.1)}.ve-init-mw-desktopArticleTarget-toolbarPlaceholder-floating,.ve-init-mw-desktopArticleTarget-toolbarPlaceholder-open{height:42px} .ve-init-mw-desktopArticleTarget-toolbar,.ve-init-mw-desktopArticleTarget-toolbarPlaceholder{font-size:0.875em; margin:-1.14em -1.14em 1.14em -1.14em; }@media screen and (min-width:982px){.ve-init-mw-desktopArticleTarget-toolbar,.ve-init-mw-desktopArticleTarget-toolbarPlaceholder{ margin:-1.43em -1.71em 1.43em -1.71em}}.ve-init-mw-desktopArticleTarget-toolbarPlaceholder-floating{margin-top:0;margin-bottom:0} .ve-activated .vector-menu-tabs .selected{box-shadow:inset 0 -1px 0 #e1f1fc}</style><meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="./divider2_files/load(2).php">
+<link rel="stylesheet" href="./divider2_files/load(3).php">
+<meta name="generator" content="MediaWiki 1.43.11">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="viewport" content="width=1120">
+<link rel="icon" href="https://cdn.wikimg.net/en/hkwiki/images/4/4a/Site-favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="https://hollowknight.wiki/mw/rest.php/v1/search" title="Hollow Knight Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://hollowknight.wiki/mw/api.php?action=rsd">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Hollow Knight Wiki Atom feed" href="https://hollowknight.wiki/mw/index.php?title=Special:RecentChanges&amp;feed=atom">
+<meta property="og:title" content="Template:Hr">
+<meta property="og:site_name" content="Hollow Knight Wiki">
+<meta property="og:url" content="https://hollowknight.wiki/w/Template:Hr">
+<meta property="og:image" content="https://cdn.wikimg.net/en/hkwiki/images/e/e6/Site-logo.png">
+<meta property="article:modified_time" content="2023-10-28T23:02:35Z">
+<meta property="article:published_time" content="2023-10-28T23:02:35Z">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","name":"Template:Hr - Hollow Knight Wiki","headline":"Template:Hr - Hollow Knight Wiki","mainEntityOfPage":"Template:Hr","identifier":"https:\/\/hollowknight.wiki\/w\/Template:Hr","url":"https:\/\/hollowknight.wiki\/w\/Template:Hr","dateModified":"2023-10-28T23:02:35Z","datePublished":"2023-10-28T23:02:35Z","image":{"@type":"ImageObject","url":"https:\/\/cdn.wikimg.net\/en\/hkwiki\/images\/e\/e6\/Site-logo.png"},"author":{"@type":"Organization","name":"Hollow Knight Wiki","url":"\/\/hollowknight.wiki","logo":{"@type":"ImageObject","url":"https:\/\/cdn.wikimg.net\/en\/hkwiki\/images\/e\/e6\/Site-logo.png","caption":"Hollow Knight Wiki"}},"publisher":{"@type":"Organization","name":"Hollow Knight Wiki","url":"\/\/hollowknight.wiki","logo":{"@type":"ImageObject","url":"https:\/\/cdn.wikimg.net\/en\/hkwiki\/images\/e\/e6\/Site-logo.png","caption":"Hollow Knight Wiki"}},"potentialAction":{"@type":"SearchAction","target":"https:\/\/hollowknight.wiki\/mw\/index.php?title=Special:Search&search={search_term}","query-input":"required name=search_term"}}</script>
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async="">(function () {
+    var host = window.location.hostname;
+    var element = document.createElement('script');
+    var firstScript = document.getElementsByTagName('script')[0];
+    var url = 'https://cmp.inmobi.com'
+        .concat('/choice/', 'qExupB7aAA026', '/', host, '/choice.js?tag_version=V3');
+    var uspTries = 0;
+    var uspTriesLimit = 3;
+    element.async = true;
+    element.type = 'text/javascript';
+    element.src = url;
+
+    firstScript.parentNode.insertBefore(element, firstScript);
+
+    function makeStub() {
+        var TCF_LOCATOR_NAME = '__tcfapiLocator';
+        var queue = [];
+        var win = window;
+        var cmpFrame;
+
+        function addFrame() {
+            var doc = win.document;
+            var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+            if (!otherCMP) {
+                if (doc.body) {
+                    var iframe = doc.createElement('iframe');
+
+                    iframe.style.cssText = 'display:none';
+                    iframe.name = TCF_LOCATOR_NAME;
+                    doc.body.appendChild(iframe);
+                } else {
+                    setTimeout(addFrame, 5);
+                }
+            }
+            return !otherCMP;
+        }
+
+        function tcfAPIHandler() {
+            var gdprApplies;
+            var args = arguments;
+
+            if (!args.length) {
+                return queue;
+            } else if (args[0] === 'setGdprApplies') {
+                if (
+                    args.length > 3 &&
+                    args[2] === 2 &&
+                    typeof args[3] === 'boolean'
+                ) {
+                    gdprApplies = args[3];
+                    if (typeof args[2] === 'function') {
+                        args[2]('set', true);
+                    }
+                }
+            } else if (args[0] === 'ping') {
+                var retr = {
+                    gdprApplies: gdprApplies,
+                    cmpLoaded: false,
+                    cmpStatus: 'stub'
+                };
+
+                if (typeof args[2] === 'function') {
+                    args[2](retr);
+                }
+            } else {
+                if (args[0] === 'init' && typeof args[3] === 'object') {
+                    args[3] = Object.assign(args[3], {tag_version: 'V3'});
+                }
+                queue.push(args);
+            }
+        }
+
+        function postMessageEventHandler(event) {
+            var msgIsString = typeof event.data === 'string';
+            var json = {};
+
+            try {
+                if (msgIsString) {
+                    json = JSON.parse(event.data);
+                } else {
+                    json = event.data;
+                }
+            } catch (ignore) {
+            }
+
+            var payload = json.__tcfapiCall;
+
+            if (payload) {
+                window.__tcfapi(
+                    payload.command,
+                    payload.version,
+                    function (retValue, success) {
+                        var returnMsg = {
+                            __tcfapiReturn: {
+                                returnValue: retValue,
+                                success: success,
+                                callId: payload.callId
+                            }
+                        };
+                        if (msgIsString) {
+                            returnMsg = JSON.stringify(returnMsg);
+                        }
+                        if (event && event.source && event.source.postMessage) {
+                            event.source.postMessage(returnMsg, '*');
+                        }
+                    },
+                    payload.parameter
+                );
+            }
+        }
+
+        while (win) {
+            try {
+                if (win.frames[TCF_LOCATOR_NAME]) {
+                    cmpFrame = win;
+                    break;
+                }
+            } catch (ignore) {
+            }
+
+            if (win === window.top) {
+                break;
+            }
+            win = win.parent;
+        }
+        if (!cmpFrame) {
+            addFrame();
+            win.__tcfapi = tcfAPIHandler;
+            win.addEventListener('message', postMessageEventHandler, false);
+        }
+    };
+
+    makeStub();
+
+    function makeGppStub() {
+        const CMP_ID = 10;
+        const SUPPORTED_APIS = [
+            '2:tcfeuv2',
+            '6:uspv1',
+            '7:usnatv1',
+            '8:usca',
+            '9:usvav1',
+            '10:uscov1',
+            '11:usutv1',
+            '12:usctv1'
+        ];
+
+        window.__gpp_addFrame = function (n) {
+            if (!window.frames[n]) {
+                if (document.body) {
+                    var i = document.createElement("iframe");
+                    i.style.cssText = "display:none";
+                    i.name = n;
+                    document.body.appendChild(i);
+                } else {
+                    window.setTimeout(window.__gpp_addFrame, 10, n);
+                }
+            }
+        };
+        window.__gpp_stub = function () {
+            var b = arguments;
+            __gpp.queue = __gpp.queue || [];
+            __gpp.events = __gpp.events || [];
+
+            if (!b.length || (b.length == 1 && b[0] == "queue")) {
+                return __gpp.queue;
+            }
+
+            if (b.length == 1 && b[0] == "events") {
+                return __gpp.events;
+            }
+
+            var cmd = b[0];
+            var clb = b.length > 1 ? b[1] : null;
+            var par = b.length > 2 ? b[2] : null;
+            if (cmd === "ping") {
+                clb(
+                    {
+                        gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+                        cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                        cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                        signalStatus: "not ready", // possible values: not ready, ready
+                        supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                        cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+                        sectionList: [],
+                        applicableSections: [-1],
+                        gppString: "",
+                        parsedSections: {},
+                    },
+                    true
+                );
+            } else if (cmd === "addEventListener") {
+                if (!("lastId" in __gpp)) {
+                    __gpp.lastId = 0;
+                }
+                __gpp.lastId++;
+                var lnr = __gpp.lastId;
+                __gpp.events.push({
+                    id: lnr,
+                    callback: clb,
+                    parameter: par,
+                });
+                clb(
+                    {
+                        eventName: "listenerRegistered",
+                        listenerId: lnr, // Registered ID of the listener
+                        data: true, // positive signal
+                        pingData: {
+                            gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+                            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                            signalStatus: "not ready", // possible values: not ready, ready
+                            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                            cmpId: CMP_ID, // list of supported APIs
+                            sectionList: [],
+                            applicableSections: [-1],
+                            gppString: "",
+                            parsedSections: {},
+                        },
+                    },
+                    true
+                );
+            } else if (cmd === "removeEventListener") {
+                var success = false;
+                for (var i = 0; i < __gpp.events.length; i++) {
+                    if (__gpp.events[i].id == par) {
+                        __gpp.events.splice(i, 1);
+                        success = true;
+                        break;
+                    }
+                }
+                clb(
+                    {
+                        eventName: "listenerRemoved",
+                        listenerId: par, // Registered ID of the listener
+                        data: success, // status info
+                        pingData: {
+                            gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+                            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                            signalStatus: "not ready", // possible values: not ready, ready
+                            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                            cmpId: CMP_ID, // CMP ID
+                            sectionList: [],
+                            applicableSections: [-1],
+                            gppString: "",
+                            parsedSections: {},
+                        },
+                    },
+                    true
+                );
+            } else if (cmd === "hasSection") {
+                clb(false, true);
+            } else if (cmd === "getSection" || cmd === "getField") {
+                clb(null, true);
+            }
+            //queue all other commands
+            else {
+                __gpp.queue.push([].slice.apply(b));
+            }
+        };
+        window.__gpp_msghandler = function (event) {
+            var msgIsString = typeof event.data === "string";
+            try {
+                var json = msgIsString ? JSON.parse(event.data) : event.data;
+            } catch (e) {
+                var json = null;
+            }
+            if (typeof json === "object" && json !== null && "__gppCall" in json) {
+                var i = json.__gppCall;
+                window.__gpp(
+                    i.command,
+                    function (retValue, success) {
+                        var returnMsg = {
+                            __gppReturn: {
+                                returnValue: retValue,
+                                success: success,
+                                callId: i.callId,
+                            },
+                        };
+                        event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+                    },
+                    "parameter" in i ? i.parameter : null,
+                    "version" in i ? i.version : "1.1"
+                );
+            }
+        };
+        if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+            window.__gpp = window.__gpp_stub;
+            window.addEventListener("message", window.__gpp_msghandler, false);
+            window.__gpp_addFrame("__gppLocator");
+        }
+    };
+
+    makeGppStub();
+
+    var uspStubFunction = function () {
+        var arg = arguments;
+        if (typeof window.__uspapi !== uspStubFunction) {
+            setTimeout(function () {
+                if (typeof window.__uspapi !== 'undefined') {
+                    window.__uspapi.apply(window.__uspapi, arg);
+                }
+            }, 500);
+        }
+    };
+
+    var checkIfUspIsReady = function () {
+        uspTries++;
+        if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+            console.warn('USP is not accessible');
+        } else {
+            clearInterval(uspInterval);
+        }
+    };
+
+    if (typeof window.__uspapi === 'undefined') {
+        window.__uspapi = uspStubFunction;
+        var uspInterval = setInterval(checkIfUspIsReady, 6000);
+    }
+})();</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+<script>
+	window.nym_obj = {
+		"user_state": "guest",
+		"layout": "article",
+		"view_mode": "",
+		"debug": ((new URLSearchParams(window.location.search)).has('nym_debug'))
+	};
+    window.assertive = {
+        debug: nym_obj.debug, // for dynamic debug see: https://suite.assertiveyield.com/docs/yield-intelligence/tracking-client-documentation#debug-mode
+        entityId: "xDfm3r8XEuPFb8n3E",
+        analytics: {
+            integrations: {
+                webAnalytics: true,
+            },
+            logUnfilled: true,
+			custom: {
+				// optional dimensions for custom data, they expect null or string
+				layout: "article",
+				userState: "guest",
+				custom_1: null,
+				custom_2: "",
+				custom_3: null,
+				custom_4: null,
+				custom_5: null,
+				custom_6: null,
+				custom_7: null,
+				custom_8: null,
+				custom_9: "firstload",
+				custom_10: null,
+				custom_11: null,
+				custom_12: "0",
+				custom_13: null,
+				custom_14: null,
+			}
+        },
+    };
+</script>
+
+
+<script>
+	window.googletag = window.googletag || {cmd: []};
+	window.relevantDigital = window.relevantDigital || {};
+	relevantDigital.cmd = relevantDigital.cmd || [];
+	
+	window.rdConfig = {
+		configId: '680a855a9db05938788f0719',
+		manageAdserver: true,
+		collapseEmptyDivs: true,
+		collapseBeforeAdFetch: false,
+		allowedDivIds: null, // set to an array to only load certain <div>s, example - ['divId1', 'divId2']
+		noSlotReload: false, // set true to only load ad slots that have never been loaded
+		noGpt: true,
+		createAdUnitCode: ({ code, unit, slot }) => {
+		//set prebid.js adUnitCode to the div id for inline 300x250 banners where Teads is bidding.
+			//Teads requires this to work properly
+			const regex = /^div-gpt-ad-wiki-inline[0-9]{1,2}$/;
+			if (regex.test(slot.getSlotElementId())) {
+				return slot.getSlotElementId();
+			}
+			return document.getElementById(slot.getSlotElementId())?.getAttribute('data-ad-unit-id');  // use the case sensitive data-ad-unit-id
+		},
+		googletagCalls: {
+			defineSlot: (adUnitPath, size, divId) => {
+				const newPath = document.getElementById(divId)?.getAttribute('data-ad-unit-id') || adUnitPath;
+				return googletag.defineSlot(newPath, size, divId);
+			},
+		},
+		onBeforeAdRequest: ({ auction }) => {
+			if (typeof auction.customParams !== 'undefined' && auction.customParams.Reloading == 'Yes') {
+				assertive.analytics.custom.custom_9 = _uat.getUserActiveState();
+				assertive.analytics.custom.custom_12 = Math.floor((Date.now() - pageLoadTS) / 1000 / 60);
+			}
+		},
+	};
+	
+	console.log('using Relevant Manager');
+
+	relevantDigital.cmd.push(function() {
+		relevantDigital.loadPrebid(window.rdConfig);
+	});
+</script>
+<script async="" src="./divider2_files/6809c205ffc16ed42522b9c6.js.download"></script>
+
+<script async="" src="./divider2_files/config.js.download"></script>
+
+
+
+<style>:root [href="https://adstub.net/cina777/"], :root [href="https://adstub.net/judi89/"], :root [href^="//mage98rquewz.com/"], :root .inset-x-0[x-data="adblockBanner()"], :root #hero a[download="Unicore.zip"], :root body > div[data-captcha-enable="true"] > div.cleanslate[id^="google-captcha-"] > div.captcha-box, :root html > #__cf_challenge_host__, :root html[data-scrapbook-source][data-scrapbook-create][data-scrapbook-title] > body.no-js > div.main-wrapper[role="main"] > div.main-content, :root html > body.body > div.container > div.content > form > table.optoutForm, :root html > body > div.container > form#unsubscribe-form[onsubmit="submitUnsubscribeForm(event)"], :root html[lang] > body:not([class]):not([id]):not([style]) > div.background-container > div.container > div.captcha-box, :root body > .main-wrapper > .main-content > .intro > .checkbox-window, :root html > .cfmd-shadow-host, :root .wp-singular > iframe[srcdoc][allowfullscreen][allow*="clipboard-write"][style*="2147483647"], :root html > #nc-cover:not(body), :root body > .cf-root, :root .cjs-container > #checkbox-window, :root .wp-singular > div[data-sm][style*="2147483647"] > iframe[style*="100%"][allow*="clipboard-write"], :root #ipBar + .main, :root #mainBtn[onclick="startVerify()"], :root #turnstile[onclick="handleClick()"], :root body > .page > .verify-row, :root body > .page > #mainVerifyRow, :root body.wp-singular > div[id$="-overlay"] > div[id$="-container"] > div[class*="-container"] > div[id$="-checkbox-window"], :root html[lang] > body.ishome > div.adult + main.main, :root .container a[title="AI Jerk OFF"][href][target="_blank"], :root body > #mdl-register.modal.anm-e.regnow, :root .flex a[href^="http://adpostup.com/"], :root #app-root ~ a[href][target="_blank"][style="position: fixed;top: 0;left: 0;width: 100%;height: 100%;display: block;z-index: 9999999;cursor: auto"], :root #wrapper ~ a[href][target="_blank"][style="position: fixed;top: 0;left: 0;width: 100%;height: 100%;display: block;z-index: 9999999;cursor: auto"], :root .header ~ div[style^="position:fixed;inset:0;z-index:2147483647;background:black;opacity:0.01;height:"], :root img[width="728"][height="90"], :root button.btn[data-openuri*="/4/"], :root #adbtm[onclick="badr();"], :root a[href^="https://www.polybuzz.ai/"] img.responsive-image, :root .kln > a[href^="https://www.polybuzz.ai/"], :root html[lang][style^="--main-bg-color"] > body:not([class]):not([id]) > div#container[style="visibility: visible;"] > div#banner[style="opacity:0"] ~ main:not([class]):not([id]) > div#message, :root #donate > a[href][style][onclick="thank_you()"][target="_blank"][rel="nofollow"], :root .container a[href^="https://insensitiveshoweraudible.com/"], :root .jwplayer ~ div[style="position:absolute;top:0;left:0;width: 100%;height: 100%;z-index:2147483647"], :root iframe.lazyloaded[data-src^="https://rcm-fe.amazon-adsystem.com/"], :root div[style^="position: fixed; inset: 0px; z-index: 2147483647; background: black; opacity: 0.01"], :root .skel-layers-fixed a[href*=".com/smartpop/"], :root [style^="position: fixed; inset: 0px; z-index: 2147483647; background-color: transparent; pointer-events: auto; cursor: auto; margin: 0px; padding: 0px; display: block;"], :root .ads-iframe:not([style="position: absolute; left: -10px; top: -10px;"]), :root .ad-content:not(:empty), :root div[style="position: fixed; display: block; width: 100%; height: 100%; inset: 0px; background-color: rgba(0, 0, 0, 0); z-index: 300000;"], :root #weatherad:not(:empty), :root #topbannerad:not(:empty), :root #topBannerAd:not(:empty), :root #ad_img:not(:empty), :root #adContext:not(:empty), :root .ad-300x250:not(.ads), :root [data-ad-width]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle), :root .adunit:not(.text-ad), :root .adslot_1:not(.text-ad), :root [href="https://adstub.net/ratu89/"], :root #ads-footer:not([style^="position: absolute; left: -5000px"]), :root a.tdn[href^="https://landing.brazzersnetwork.com/"], :root #ads-1:not([style^="position: absolute; left: -5000px"]), :root #adframe:not(frameset):not([style^="position: absolute; left: -5000px"]), :root #ad_slot:not([style^="position: absolute; left: -5000px"]), :root #ad_big:not([style^="position: absolute; left: -5000px"]), :root #ad_area:not([style^="position: absolute; left: -5000px"]), :root #ad_300:not([style^="position: absolute; left: -5000px"]), :root a[dontfo=""][style$="position: absolute; z-index: 2147483647;"], :root [href^="https://join.enjoyx.com/track/"], :root a[href*=".click/?z="][href*="&n"], :root [href^="//taghaugh.com/"], :root div[class$="player-promo-col"], :root [href^="https://www.safestcontentgate.com/"], :root [href^="//cadsecs.com/"], :root [href^="//mellowads.com/"], :root .cjs-container > #verify-window, :root [href^="https://fireads.online/"], :root html[lang="vi"] .sspp-area, :root html[lang="tr"] > body.has-footer-ad.has-pageskin-desktop a.pageskin-desktop-wrapper, :root html[lang="tr"] #aa-wp .container-ads-adjustment, :root body > a.visible[id][href][target="_blank"], :root #videojs ~ div[style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 2147483646;"], :root html > #bw-rc-host, :root .close-btn4[onclick="closeAd4()"], :root .close-btn3[onclick="closeAd3()"], :root .close-btn[onclick="closeAd()"], :root #go-to-top + div[id][class], :root .bb ~ main#container .containerAds, :root #midadd:not(:empty), :root #adzerk:not(:empty), :root [href^="//x4pollyxxpush.com/"], :root #advert-header:not(:empty), :root div.card > div#cbRow.checkbox-row[onclick="startVerify()"], :root #tongkatlol ~ script[src^="/shrinke/js/"] ~ .main-content-box > div[style="width:100%;height:110px"], :root body > div[style$="z-index: 2147483647; top: 0px; left: 0px; position: fixed; display: block;"], :root html > body > div.container.m-p > #checkbox-window.checkbox-window, :root .container a[href^="https://seduced.com"][href*="ref="], :root #kt_player .fp-brand, :root a[id][href="https://toolkitspro.com"][rel^="noopener noreferrer"], :root #kt_player #ads_iframe, :root .header-container a[href^="https://candyai.gg/"], :root [src^="//dombnrs.com/"], :root [href="https://adstub.net/arab777/"], :root #kt_player ~ #sp-player, :root a[href*="/go.php?a_aid="], :root [href^="https://klsdee.com/"], :root [href^="//producebreed.com/"], :root #modern-player-root ~ div[id^="custom-invisible-overlay-"][class^="custom-popup-overlay-"], :root [href="//xxxrevpushclcdu.com/app.webp"], :root [href^="https://adult.xyz/"], :root [href^="https://popcash.net/"], :root a[href^="http://www.poweredbyliquidfire.mobi/"], :root [href^="https://t.mobtyb.com/"], :root [data-lnguri*="vipbox"], :root .reklama:not(.ads), :root a[href^="https://syndication.exdynsrv.com/splash.php"], :root [href*="/afu.php"], :root span[id^="ezoic-pub-ad-placeholder-"], :root ins.adsbygoogle[data-ad-slot], :root ins.adsbygoogle[data-ad-client], :root img[src^="https://s-img.adskeeper.com/"], :root #download a[download="Unicore.zip"], :root guj-ad, :root body[data-clipboard-code] > .main-wrapper, :root gpt-ad, :root div#spot-holder.spot-holder[style="display: block;"], :root div[ow-ad-unit-wrapper], :root div[id^="zergnet-widget"], :root html[lang] > body:not([class]):not([id]):not([style]) > div.container > div.recaptcha-box, :root div[id^="vuukle-ad-"], :root div[id^="taboola-stream-"], :root div[id^="sticky_ad_"], :root div[id^="st"][style^="z-index: 999999999;"], :root div[id^="rc-widget-"], :root html > body > div.content > dl > dd.dd1 > div.min_sider > form#form1[action="unsubscribe.php"], :root div[id^="mrec-leaderboard-"], :root div[id^="gpt_ad_"], :root div[id^="ezoic-pub-ad-"], :root div[id^="dfp-ad-"], :root div[id^="crt-"][style], :root div[id^="adspot-"], :root a[onclick="openAuc();"], :root ps-connatix-module, :root div[id^="ad_position_"], :root [data-ad-module]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle), :root a[id][href="https://chpadblock.com/"][rel^="noopener noreferrer"], :root div[id^="ad-div-"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root [href="https://adstub.net/rusia777/"], :root #banner468:not([style^="position: absolute; left: -5000px"]), :root div[data-id-advertdfpconf], :root div[data-dfp-id], :root div[style="top: 0px; left: 0px; width: 1287px; height: 500px; position: fixed; z-index: 2147483647;"], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-alias="300x250 Ad 2"], :root div[data-adzone], :root #buy-sell-ads:not(:empty), :root div[data-adunit-path], :root div[data-adname], :root div[data-ad-targeting], :root div[data-ad-region], :root div[data-ad-placeholder], :root div[aria-label="Ads"], :root .google-ad:not(.testAd), :root display-ads, :root #ad_space:not([style^="position: absolute; left: -5000px"]), :root display-ad-component, :root atf-ad-slot, :root aside[id^="adrotate_widgets-"], :root div[style^="position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01"], :root aside[aria-label="retailmedia.complimentarySponsored"], :root html[lang] > body#body > * > div.cvh.BlockClicksActivityBusy, :root amp-fx-flying-carpet, :root amp-embed[type="taboola"], :root html > #nochain-demo-frame:not(body), :root html[lang="tr"] #aa-wp .rnd-ads-adjustment, :root amp-connatix-player, :root div[id^="google_dfp_"], :root ad-slot, :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.onlineusershielder.com/"], :root html[lang="tr"] > body.has-footer-ad.has-pageskin-desktop a.pageskin-click-right, :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancecpmgate.com/"], :root amp-ad, :root a[href^="https://www.highcpmrevenuenetwork.com/"], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://lnkxt.bannerator.com/"], :root a[href^="https://www.geekbuying.com/dynamic-ads/"], :root #cmdTextDisplay ~ *, :root [href^="https://groorsoa.net/"], :root a[href*=".sadbaguette.com/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="https://www.effectiveratecpm.com/"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://www.dql2clk.com/"], :root [data-template-type="nativead"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.dating-finder.com/signup/?ai_d="], :root a[href^="https://wolf-327b.com/"], :root body > .content-wrapper > .cf-wrap, :root [data-ad-manager-id]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle), :root a[href^="https://voluum.prom-xcams.com/"], :root a[href^="https://twinrdsyte.com/"], :root .category-ads:not(html):not(body):not(.post), :root a[href^="https://twinrdsrv.com/"], :root [href="https://snvhost.com/"], :root a[href^="https://trk.nfl-online-streams.club/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.afcpatrk.com/"], :root [href="https://t.me/Russia_Vs_Ukraine_War3"], :root a[href^="https://track.adform.net/"], :root a[href^="https://torguard.net/aff.php"] > img, :root .menu-item a[href^="https://go.rmhfrtnd.com"], :root [data-identity="adhesive-ad"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://tatrck.com/"], :root a[href^="https://click.candyoffers.com/"], :root [href^="https://zstacklife.com/"] img, :root a[href^="https://t.aslnk.link/"], :root .container a[href^="https://go.mavrtracktor.com/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"], :root a[href^="https://t.ajump1.com/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://go.trackitalltheway.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://syndication.exoclick.com/"], :root a[href^="https://syndication.dynsrvtbg.com/"], :root div[data-alias="300x250 Ad 1"], :root a[href^="https://syndicate.contentsserved.com/"], :root a[href^="https://svb-analytics.trackerrr.com/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"] + .ob_source, :root a[href^="http://www.iyalc.com/"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://stardomcoit.com/"], :root a[href^="https://track.aftrk5.com/"], :root a[href^="https://slkmis.com/"], :root a[href^="https://myclick-2.com/"], :root a[href^="https://sexynearme.com/"], :root a[href^="https://s.zlinkt.com/"], :root a[href^="https://s.zlinkr.com/"], :root bottomadblock, :root a[href^="https://s.zlinkd.com/"], :root [href="https://adstub.net/gaza88/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://s.zlink7.com/"], :root a[href^="https://s.ma3ion.com/"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://s.gentlefieldpattern.com/"], :root a[href^="https://s.eunow4u.com/"], :root a[href^="https://random-affiliate.atimaze.com/"], :root #downloadAd:not(:empty), :root #kt_player > div[style$="display: block;"][style*="inset: 0px;"], :root a[href^="https://quotationfirearmrevision.com/"], :root a[href^="https://pubads.g.doubleclick.net/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://www.dating-finder.com/?ai_d="], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root app-ad, :root [href^="https://ap.octopuspop.com/click/"] > img, :root a[href^="https://postback1win.com/"], :root html[lang] > body#body > * > div.cv-xwrapper > div.cvc > div.cv-inner, :root [href^="https://go.mavrtracktor.com/"], :root a[href^="https://a.adtng.com/"], :root a[href^="https://playnano.online/offerwalls/?ref="], :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://pb-track.com/"], :root a[href^="https://pb-front.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://streamate.com/landing/click/"], :root div[class^="Adstyled__AdWrapper-"], :root a[href^="https://osfultrbriolenai.info/"], :root a[href^="https://upsups.click/"], :root .ad-placeholder:not(#detect, #detect_ad_empire, #filter_ads_by_classname, .adsbox), :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a.poly-title[href^="https://www.polybuzz.ai/"], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root [data-ad-name], :root a[href^="https://loboclick.com/"], :root a[href^="https://lead1.pl/"], :root .cta-button[onclick="openUpdateModal()"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://join.bannedsextapes.com/track/"], :root [href^="https://exi8ef83z9.com/"], :root a[href^="https://jaxofuna.com/"], :root a[href^="https://italarizege.xyz/"], :root .category-ad:not(html):not(body):not(.post), :root a[href^="https://s.happyleafmotion.com/"], :root a[href^="https://identicaldrench.com/"], :root a[href^="https://helmethomicidal.com/"], :root #adsquare:not([style^="position: absolute; left: -5000px"]), :root a[href^="https://golinks.work/"], :root a[href^="https://go.xxxjmp.com"], :root [class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"]), :root a[href^="https://zirdough.net/"], :root [class^="tile-picker__CitrusBannerContainer-sc-"], :root a[href^="https://go.xxxiijmp.com"], :root .ad-link:not(.adsbox), :root a[href^="https://go.xtbaffiliates.com/"], :root a[href^="https://go.xlviirdr.com"], :root div[class$="-adlabel"], :root a[href^="https://go.xlviiirdr.com"], :root a[href^="https://go.xlivrdr.com"], :root a[href^="https://ismlks.com/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://go.xlirdr.com"], :root [data-css-class="dfp-inarticle"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root [data-lnguri^="https://s3.amazonaws.com"], :root a[href^="https://lijavaxa.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.dmzjmp.com"], :root a[href^="https://www.bang.com/?aff="], :root #mgb-container > #mgb, :root a[href^="https://go.admjmp.com"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://datewhisper.life/"], :root a[href^="https://click.linksynergy.com/fs-bin/"] > img, :root a[href^="https://get-link.xyz/"], :root a[href^="https://www.mrskin.com/account/"], :root a[id][href="https://hamrocsit.com"][rel^="noopener noreferrer"], :root a[href^="https://www.adskeeper.com"], :root #vidcloud-player > #overlay-container, :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://clicks.affstrack.com/"] > img, :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="https://dl-protect.net/"], :root a[href*=".foxqck.com/"], :root a[href^="https://ctosrd.com/"], :root a[href^="https://clixtrac.com/"], :root a[href^="https://clicks.pipaffiliates.com/"], :root #ad_footer:not([style^="position: absolute; left: -5000px"]), :root app-advertisement, :root a[href^="https://getmatchedlocally.com/"], :root a[href^="https://clickins.slixa.com/"], :root a[href^="https://combodef.com/"], :root a[href^="https://click.hoolig.app/"], :root a[href^="https://track.totalav.com/"], :root a[href^="https://ctrdwm.com/"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://porntubemate.com/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://click.dtiserv2.com/"], :root a[href^="https://www.adxsrve.com/"], :root a[href^="https://click.Ggpickaff.com/"], :root a[href^="https://go.awdeliverynet.com/"], :root a[href^="https://go.xlvirdr.com"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[onclick^="window.location.replace('https://random-affiliate.atimaze.com/"], :root a[href^="https://bongacams2.com/track?"], :root a[href^="https://t.ajrkm1.com/"], :root #main-content a[href^="https://hub.buzzaffiliates.com/"], :root a[href^="https://bongacams10.com/track?"], :root a[href*=".g2afse.com/"], :root a[href^="https://bodelen.com/"], :root a[href^="//hoodingluster.com/"], :root a[href^="https://black77854.com/"], :root a[href^="https://rixofa.com/"], :root a[href^="https://best-experience-cool.com/"], :root [data-taboola-options], :root a[href^="https://believessway.com/"], :root a[href^="https://Click.ggpickaff.com/"], :root a[href^="https://banners.livepartners.com/"], :root a[href^="http://revolvemockerycopper.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://track.cam4tracking.com/"], :root a[href^="https://aweptjmp.com/"], :root a[href^="https://ausoafab.net/"], :root #tabVideo > .rmedia, :root a[href^="https://aj1070.online/"], :root a[href^="https://ads.planetwin365affiliate.com/"], :root a[href^="https://ads.leovegas.com/"], :root a[href^="https://a.medfoodhome.com/"], :root .nya-slot[style], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://adultfriendfinder.com/go/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://a2.adform.net/"], :root a[href^="https://a.candyai.love/"], :root .banner-img > .pbl, :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root [data-testid^="section-AdRowBillboard"], :root .ad-placeholder:not(#filter_ads_by_classname):not(#detect_ad_empire):not(#detect):not(.adsbox), :root broadstreet-zone-container, :root a[href^="https://ak.psaltauw.net/"], :root a[href^="https://1winpb.com/"], :root div[id^="optidigital-adslot"], :root [href^="https://wsup.ai/"], :root a[href^="https://123-stream.org/"], :root a[href^="https://in.rabbtrk.com/"], :root a[href^="http://www.h4trck.com/"], :root [href^="https://a.acebet.com/api/click?"], :root #video_player ~ div[id] div[style^="position:fixed;inset:0px;z-index:"], :root a[href^="http://www.friendlyduck.com/AF_"], :root .btn-primary[onclick="showVerification()"], :root a[href^="http://partners.etoro.com/"], :root [href="https://chaturbate.jjgirls.com/"] > img, :root body div#notificationPopup.notificationPopupBlock, :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root #leader_ad:not(:empty), :root amp-ad-custom, :root .home a[href^="https://s.zline0.com/"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href*="&maxads="], :root a[href^="https://1betandgonow.com/"], :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root [href^="http://referrer.website/"], :root a[href^="http://trk.globwo.online/"], :root a-ad, :root a[href^="https://offhandpump.com/"], :root a[href^="http://stickingrepute.com/"], :root #slashboxes > .deals-rail, :root [href^="http://mypillow.com/"] > img, :root a[href^="http://bongacams.com/track?"], :root .fp-ui > a[href][target="_blank"][style^="position: absolute; inset: 0px;"], :root a[href^="//startgaming.net/tienda/" i], :root a[href^="https://a.medfoodsafety.com/"], :root a[href^="//go.eabids.com/"], :root a[href^=" https://www.friendlyduck.com/AF_"], :root [data-cl-spot-id], :root a[href*="/jump/next.php?r="], :root a[href^="https://chaturbate.com/in/?"], :root div[style^="z-index: 999999; background-image: url(\"data:image/gif;base64,"][style$="position: absolute;"], :root [href^="https://affiliate.fastcomet.com/"] > img, :root #banner728x90:not([style^="position: absolute; left: -5000px"]), :root div[id^="lazyad-"], :root a[href^="http://com-1.pro/"], :root [href^="https://www.profitablegatecpm.com/"], :root a[href*=".cfm?domain="][href*="&fp="], :root #vstr ~ #overlay, :root [id^="section-ad-banner"], :root [id^="ad_slider"], :root html#html[sti][vic][lang] > body#allbody, :root [href^="https://www.onclickperformance.com/"], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://wmctjd.com/"], :root a[href*="//jjgirls.com/sex/Chaturbate"], :root [id^="ad-wrap-"], :root a[href^="http://sarcasmadvisor.com/"], :root .ad-slot:not(.adsbox):not(.adsbygoogle), :root [href^="https://www.restoro.com/"], :root [href^="https://www.targetingpartner.com/"], :root .close-btn2[onclick="closeAd2()"], :root a[href^="https://join.virtuallust3d.com/"], :root .section-subheader > .section-hotel-prices-header, :root [href^="https://www.hostg.xyz/"] > img, :root [href*="passtechusa.com"], :root a[href^="https://bngpt.com/"], :root a[href^="http://adultfriendfinder.com/go/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://tour.mrskin.com/"], :root a[href^="https://s.zlink3.com/"], :root a[href^="http://sneakyadministration.com/"], :root [href^="https://www.brighteonstore.com/products/"] img, :root citrus-ad-wrapper, :root a[href^="https://go.grinsbest.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root html.canvas > body.wp-singular + div[popover="manual"], :root a[href^="https://t.acam.link/"], :root a[href^="https://go.strpjmp.com/"], :root [href^="https://url.totaladblock.com/"], :root div[id^="ad-position-"], :root a[href^="https://www.toprevenuegate.com/"], :root a[href^="https://bc.game/"], :root a[href^="https://bngprm.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root .adsbygoogle[data-adsbygoogle-status="done"][data-ad-status="filled"]:not(ins), :root a[href^="https://trk.softonixs.xyz/"], :root [href^="https://wct.link/click?"], :root [href^="//look.utndln.com/offer"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root a[href^="https://iqbroker.com/"][href*="?aff="], :root .p-post-ad:not(html):not(body), :root #vplayer ~ img[id][onclick], :root [href^="https://rpwmct.com/"], :root a[href^="https://go.cmtaffiliates.com/"], :root [href^="https://mylead.global/stl/"] > img, :root [data-testid="adBanner-wrapper"], :root [href^="https://optimizedelite.com/"] > img, :root a[href^="https://go.rmishe.com/"], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href^="https://go.xxxijmp.com"], :root [href^="https://istlnkcl.com/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root #tongkatlol ~ script[src^="/shrinke/js/"] ~ .main-content-box + .content-box > div[id][style^="position: fixed; display: block; width: 100%;"], :root .\[\&_\.gdprAdTransparencyCogWheelButton\]\:\!pjra-z-\[5\], :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root [class~="mailpoet_form_popup_overlay"], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="https://explore-site.com/"], :root .AdBody:not(body), :root [href="https://adstub.net/indo666/"], :root [href^="https://glersakr.com/"], :root a[href^="https://tm-offers.gamingadult.com/"], :root [href^="https://charmingdatings.life/"], :root [data-id^="div-gpt-ad"], :root a[href^="https://tracker.loropartners.com/"], :root [href^="https://awbbjmp.com/"], :root a[href^="https://go.bushheel.com/"], :root a[href^="https://ctjdwm.com/"], :root body > div.mw[role="main"] > .mc, :root a[href^="https://camfapr.com/landing/click/"], :root div[data-ad-wrapper], :root .gnt_em_vp_c[data-g-s="vp_dk"], :root [href="//sexcams.plus/"], :root [href^="http://www.mypillow.com/"] > img, :root a[href^="https://join.virtualtaboo.com/track/"], :root [id^="ad_sky"], :root [name^="google_ads_iframe"], :root [href^="https://go.xlrdr.com"], :root [href*="uselnk.com/"], :root a[href^="https://s.cant3am.com/"], :root .nav-item[href^="https://candyai.gg/"], :root [data-testid^="taboola-"], :root #teaser3[style^="width: 100%;height:0;text-align: center;display: scroll;position:fixed;"], :root a[href*=".adglare.net/"], :root a[href^="https://track.1234sd123.com/"], :root zeus-ad, :root [data-testid="prism-ad-wrapper"], :root [href^="https://antiagingbed.com/discount/"] > img, :root a[href*=".adsrv.eacdn.com/"], :root #teaser1[style^="width:autopx;"], :root [href^="https://www.cloudways.com/en/?id"], :root #modal[doskip][prclck], :root body > .main-wrapper > .main-content > .intro > #checkbox-window, :root [data-uri^="https://s3.amazonaws.com"], :root [href^="https://mypatriotsupply.com/"] > img, :root a[href^="https://go.hpyjmp.com"], :root iframe[scrolling="no"][sandbox*="allow-popups allow-modals"][style^="width: 100%; height: 100%; border: none;"], :root [href^="https://mystore.com/"] > img, :root html[lang] > body.startnew > div#sections > section#section_uname, :root span[data-ez-ph-id], :root [href^="https://track.aftrk1.com/"], :root html[lang] > body:not([style]) > div.captchaBody, :root #adheader:not([style^="position: absolute; left: -5000px"]), :root div[id^="adngin-"], :root [data-rc-widget], :root a[href^="https://stellarcashflow.net/trck/"], :root [data-mobile-ad-id], :root [href^="https://join.playboyplus.com/track/"], :root html > #bw-cf-root, :root [href^="https://go.smljmp.com/"], :root a[href^="https://gamingadlt.com/?offer="], :root a[href^="https://go.bbrdbr.com"], :root a[href^="https://fc.lc/ref/"], :root body.user-clicked[style="cursor: auto;"] > #root > .app-container, :root a[href^="https://pb-imc.com/"], :root a[href^="https://www8.smartadserver.com/"], :root topadblock, :root a[href^="//s.zlinkd.com/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root [data-freestar-ad][id], :root body > .cf-page-wrap, :root [data-dynamic-ads], :root [data-desktop-ad-id], :root [data-d-ad-id], :root [href^="https://track.wg-aff.com/click"], :root a[href^="https://go.rmhfrtnd.com"], :root [data-asg-ins], :root [data-block-type="ad"], :root [onclick*="content.ad/"], :root [href^="https://go.rdrjmp.com/"], :root a[href^="https://snowdayonline.xyz/"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="http://join.brokestraightboys.com/track/"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root a[href^="https://track.aftrk3.com/"], :root [href^="https://join3.bannedsextapes.com"], :root [href^="https://join.girlsoutwest.com/"], :root html > body.hold-transition.theme-primary.bg-img[style^="background-image"][style*="wallpaperaccess.com"][style*="background-repeat"][style*="background-size"], :root AMP-AD, :root [data-ad-cls], :root .ad-box:not(#ad-banner):not(:empty), :root body > .wrapper > .card-box > #step-1, :root [data-ez-name], :root a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"], :root .ob_container .item-container-obpd, :root #ads_top:not(a), :root a[href^="https://go.mnaspm.com/"], :root a[href^="https://service.bv-aff-trx.com/"], :root .ad_slot:not(.text-ad), :root #st-ami + div[id][class*=" "], :root a[href^="https://6-partner.com/"], :root [class^="s2nPlayer"], :root a[href^="https://traffdaq.com/"], :root [data-testid="ad_testID"], :root [href^="https://ad.admitad.com/"], :root [href^="https://mypillow.com/"] > img, :root [data-testid="commercial-label-taboola"], :root a[href^="http://tc.tradetracker.net/"] > img, :root [class^="amp-ad-"], :root .ad_unit:not(.text-ad, .adsbox), :root [href="https://clickaine.com"], :root #playerOverlay[style="position:absolute; z-index:3"], :root a[href^="https://www.liquidfire.mobi/"], :root .grid > .container > #aside-promotion, :root DFP-AD, :root #hero + div.marquee-wrap + section#games + section#features + #download, :root #ads-banner:not([style^="position: absolute; left: -5000px"]), :root AD-SLOT, :root a[href^="https://www.googleadservices.com/pagead/aclk?"] > img, :root body > .security-container[style="opacity: 1; transform: translateY(0px);"], :root a[href^="https://a.bestcontentfood.top/"], :root #kt_player > a[target="_blank"], :root [href^="https://zone.gotrackier.com/"], :root .ad-area:not(.text-ad), :root a[href^="https://ab.advertiserurl.com/aff/"], :root #adSpecial:not(:empty), :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root .sidebar-ad:not(.adsbygoogle), :root a[href^="https://s.zlinkn.com/"], :root a[href^="https://go.xxxvjmp.com/"], :root .ads_container:not(.text-ad), :root [class^="adDisplay-module"], :root a[href^="https://t.ajrkm3.com/"], :root in-page-message[doskip], :root [href^="https://aads.com/campaigns/"], :root a[href^="https://juicyads.in/"], :root #ad_728:not([style^="position: absolute; left: -5000px"]), :root div[id^="apn_native_ad_slot_"], :root .adhesion:not(body), :root body > div.captcha-container > div.captcha-card, :root ad-shield-ads, :root a[href^="https://hot-growngames.life/"], :root .ad_box:not(.text-ad), :root [href^="https://wap4dollar.com/ad/nonadult/serve.php"], :root [href="https://jdrucker.com/gold"] > img, :root .fp-player > div[style="position: absolute; inset: 0px; overflow: hidden; z-index: 160; background: transparent; display: block;"], :root .ad-wrap:not(#google_ads_iframe_checktag), :root a[href^="https://www.friendlyduck.com/AF_"], :root html[lang="tr"] #aa-wp + .fixed-footer .footer-ad-container, :root [href^="https://ad1.adfarm1.adition.com/"], :root #teaser3[style^="width:autopx;"], :root a[href^="https://gml-grp.com/"], :root a[href^="https://activate-game.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href^="https://wittered-mainging.com/"], :root div[id][style^="position: fixed; inset: 0px; z-index: 2147483647; background: black"][style*="opacity: 0.01"], :root #teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"], :root html[lang="tr"] > body.has-footer-ad.has-pageskin-desktop a.pageskin-click-left, :root [data-revive-zoneid], :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root figure.movie-detail-banner div[style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 999; cursor: pointer;"], :root #teaser2[style^="width:autopx;"], :root a[href^="https://losingoldfry.com/"], :root #player div[style$="cursor: pointer; position: absolute; width: 100%; height: 100%; padding: 1rem; z-index: 2147483647;"], :root div[style="position: fixed; inset: 0px; z-index: 2147483647; pointer-events: auto;"], :root .scroll-fixable.rail-right > .deals-rail, :root div[id^="adrotate_widgets-"], :root .Ad-Container:not(.adsbygoogle) { display: none !important; }</style><style>.client-js .mw-dismissable-notice { display: block; }</style><style>.hk-wiki-prompt-container{font:400 24px/1 var(--font-body-serif);height:79px;left:50%;opacity:0;pointer-events:none;position:fixed;top:4rem;text-align:center;transform:translateX(-50%);transition:opacity 500ms linear;width:510px;z-index:999}.hk-wiki-prompt-container-visible{opacity:1}.hk-wiki-prompt{align-items:center;background:center/contain no-repeat;display:flex;filter:drop-shadow(0 0 16px #000)drop-shadow(0 0 16px #000);height:100%;justify-content:center;opacity:0;position:absolute;transition:opacity 500ms linear;width:100%;z-index:0}.hk-wiki-prompt:nth-child(even){background-image:url(https://cdn.wikimg.net/en/hkwiki/images/6/62/SS_Dream_Nail_Dialogue_Backboard.png)}.hk-wiki-prompt:nth-child(odd){background-image:url(https://cdn.wikimg.net/en/hkwiki/images/0/06/SS_Dream_Nail_Dialogue_Backboard_White.png)}.hk-wiki-prompt-visible{opacity:1;z-index:1}.mw-body{transition:box-shadow 500ms linear}body:has(> .hk-wiki-prompt-container-visible) .mw-body{box-shadow:0 0 24px rgb(var(--theme-accent-hover)),0 0 24px rgb(var(--theme-accent-hover))}</style><style>.hk-wiki-delight-wrapper{overflow:hidden}.hk-wiki-delight-ready #footer.mw-footer{z-index:-1}.hk-wiki-delight-ready .mw-parser-output>*{position:relative;will-change:transform}[data-delight-attacked]{z-index:90}.hk-wiki-delight-controls{align-items:center;bottom:0;display:flex;gap:18px;height:108px;justify-content:center;pointer-events:none;position:fixed;width:100%;z-index:99}.hk-wiki-delight-close,.hk-wiki-delight-interact,.hk-wiki-delight-restart,.hk-wiki-delight-share{align-items:center;animation:.3s ease-out .1s forwards show-delight-control;background-color:rgb(var(--theme-accent));border-radius:50%;box-shadow:0 2px 3px 0 rgba(0,0,0,.3),0 6px 10px 4px rgba(0,0,0,.15);color:rgb(var(--theme-on-accent));cursor:pointer;display:flex;height:56px;justify-content:center;pointer-events:auto;position:relative;transform:translateY(200%);transition:background-color .5s ease-out,filter .5s ease-out;width:56px}:is(.hk-wiki-delight-close,.hk-wiki-delight-restart,.hk-wiki-delight-interact,.hk-wiki-delight-share):not([disabled]):hover{background-color:rgb(var(--theme-accent-hover))}.hk-wiki-delight-controls.hide>:is(.hk-wiki-delight-close,.hk-wiki-delight-restart,.hk-wiki-delight-interact,.hk-wiki-delight-share){animation:.3s ease-out .1s forwards hide-delight-control;transform:translateY(0)}.hk-wiki-delight-interact{animation-delay:0s;animation-duration:.5s;height:72px;width:72px}[disabled]:is(.hk-wiki-delight-close,.hk-wiki-delight-restart,.hk-wiki-delight-interact,.hk-wiki-delight-share){cursor:initial;filter:grayscale(1) brightness(.5)}.hk-wiki-delight-close::before,.hk-wiki-delight-interact::before,.hk-wiki-delight-restart::before,.hk-wiki-delight-share::before{background:currentColor;content:'';height:24px;-webkit-mask:var(--icon) center/contain no-repeat;mask:var(--icon) center/contain no-repeat;width:24px}.hk-wiki-delight-interact::before{--icon:url(https://cdn.wikimg.net/en/hkwiki/images/6/61/Icon-action.png);height:34px;transform:scale(1.6);width:34px}.hk-wiki-delight-close::before{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 0 24 24' width='24px' fill='%23000000'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z'/%3E%3C/svg%3E")}.hk-wiki-delight-restart::before{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='32px' viewBox='0 0 24 24' width='32px' fill='%23000000'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z'/%3E%3C/svg%3E")}@keyframes show-delight-control{70%{transform:translateY(-10%)}to{transform:translateY(0)}}@keyframes hide-delight-control{from{transform:translateY(0)}30%{transform:translateY(-10%)}to{transform:translateY(200%)}}.hk-wiki-delight-attack{--spritesheet-frames:6;--spritesheet-framerate:35;--spritesheet-width:2082px;--spritesheet-height:207px;position:absolute;height:100px;top:200px;left:200px;overflow:hidden;pointer-events:none;transform:translate(-50%,-50%);z-index:98}.hk-wiki-delight-attack-sprite{aspect-ratio:calc(2082 / 6)/207;animation:hk-delight-slash calc(1000ms / var(--spritesheet-framerate) * var(--spritesheet-frames)) steps(var(--spritesheet-frames));height:100%!important;opacity:0;transform:translateX(0);width:calc(100% * var(--spritesheet-frames) + 4px)!important}@keyframes hk-delight-slash{from{opacity:1;transform:translateX(0)}to{opacity:1;transform:translateX(-100%)}}</style></head>
+<body class="mw-x-category-Pages_using_DynamicPageList4_dplvar_parser_function mw-x-category-Templates skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-10 ns-subject page-Template_Hr rootpage-Template_Hr skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body ve-init-mw-desktopArticleTarget-targetContainer" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><div class="mw-dismissable-notice"><div class="mw-dismissable-notice-close" style="visibility: visible;">[<a tabindex="0" role="button">dismiss</a>]</div><div class="mw-dismissable-notice-body"><div id="localNotice" data-nosnippet=""><div class="sitenotice" lang="en" dir="ltr"><div class="message-card disclaimer-advice">
+<div class="image-container"><span class="image" typeof="mw:File"><span><img alt="" src="./divider2_files/36px-Exclamation_Mark.png" decoding="async" width="36" height="36" class="mw-file-element" srcset="//cdn.wikimg.net/en/hkwiki/images/thumb/5/53/Exclamation_Mark.png/54px-Exclamation_Mark.png 1.5x, //cdn.wikimg.net/en/hkwiki/images/thumb/5/53/Exclamation_Mark.png/72px-Exclamation_Mark.png 2x" data-file-width="889" data-file-height="889"></span></span></div>
+<div class="text-container">
+<p class="paragraph typography--body1 typography--primary">We are aware of occasional site instability and are working to fix it.</p>
+</div>
+</div>
+<div class="message-card disclaimer-info" style="text-align:center; justify-content: space-between;">
+<div class="image-container"><span class="image" typeof="mw:File"><span title="The Knight"><img alt="The Knight" src="./divider2_files/40px-The_Knight_Idle.png" decoding="async" width="40" height="84" class="mw-file-element" srcset="//cdn.wikimg.net/en/hkwiki/images/thumb/4/47/The_Knight_Idle.png/60px-The_Knight_Idle.png 1.5x, //cdn.wikimg.net/en/hkwiki/images/4/47/The_Knight_Idle.png 2x" data-file-width="63" data-file-height="132"></span></span></div>
+<div class="text-container">
+<p><span class="typography-headline-3">Welcome to the Wiki! SPOILERS AHEAD</span></p>
+<p>Want to help? <a href="https://hollowknight.wiki/w/Special:CreateAccount" title="Special:CreateAccount">Create an account</a> or <a href="https://hollowknight.wiki/w/Special:UserLogin" title="Special:UserLogin">log in</a> to get started!
+</p><p>Be sure to check out our <a href="https://hollowknight.wiki/w/Hollow_Knight_Wiki:Editing_Guidelines" title="Hollow Knight Wiki:Editing Guidelines">Editing Guidelines</a>, and use the Talk pages or visit our <a rel="nofollow" class="external text" href="https://discord.gg/DuVNd4s">Official Wiki Discord Server</a> before making any big changes.
+</p><p>Enjoy your stay!
+</p><p>-The Hollow Knight Wiki Team
+</p>
+</div>
+<div class="image-container"><span class="image" typeof="mw:File"><span title="Hornet"><img alt="Hornet" src="./divider2_files/100px-Hornet_Idle.png" decoding="async" width="100" height="116" class="mw-file-element" srcset="//cdn.wikimg.net/en/hkwiki/images/thumb/1/16/Hornet_Idle.png/150px-Hornet_Idle.png 1.5x, //cdn.wikimg.net/en/hkwiki/images/1/16/Hornet_Idle.png 2x" data-file-width="186" data-file-height="216"></span></span></div>
+</div></div></div></div></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Edismiss\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" data-nosnippet=\"\"\u003E\u003Cdiv class=\"sitenotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cdiv class=\"message-card disclaimer-advice\"\u003E\n\u003Cdiv class=\"image-container\"\u003E\u003Cspan class=\"image\" typeof=\"mw:File\"\u003E\u003Cspan\u003E\u003Cimg alt=\"\" src=\"//cdn.wikimg.net/en/hkwiki/images/thumb/5/53/Exclamation_Mark.png/36px-Exclamation_Mark.png\" decoding=\"async\" width=\"36\" height=\"36\" class=\"mw-file-element\" srcset=\"//cdn.wikimg.net/en/hkwiki/images/thumb/5/53/Exclamation_Mark.png/54px-Exclamation_Mark.png 1.5x, //cdn.wikimg.net/en/hkwiki/images/thumb/5/53/Exclamation_Mark.png/72px-Exclamation_Mark.png 2x\" data-file-width=\"889\" data-file-height=\"889\" /\u003E\u003C/span\u003E\u003C/span\u003E\u003C/div\u003E\n\u003Cdiv class=\"text-container\"\u003E\n\u003Cp class=\"paragraph typography--body1 typography--primary\"\u003EWe are aware of occasional site instability and are working to fix it.\u003C/p\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv class=\"message-card disclaimer-info\" style=\"text-align:center; justify-content: space-between;\"\u003E\n\u003Cdiv class=\"image-container\"\u003E\u003Cspan class=\"image\" typeof=\"mw:File\"\u003E\u003Cspan title=\"The Knight\"\u003E\u003Cimg alt=\"The Knight\" src=\"//cdn.wikimg.net/en/hkwiki/images/thumb/4/47/The_Knight_Idle.png/40px-The_Knight_Idle.png\" decoding=\"async\" width=\"40\" height=\"84\" class=\"mw-file-element\" srcset=\"//cdn.wikimg.net/en/hkwiki/images/thumb/4/47/The_Knight_Idle.png/60px-The_Knight_Idle.png 1.5x, //cdn.wikimg.net/en/hkwiki/images/4/47/The_Knight_Idle.png 2x\" data-file-width=\"63\" data-file-height=\"132\" /\u003E\u003C/span\u003E\u003C/span\u003E\u003C/div\u003E\n\u003Cdiv class=\"text-container\"\u003E\n\u003Cp\u003E\u003Cspan class=\"typography-headline-3\"\u003EWelcome to the Wiki! SPOILERS AHEAD\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003EWant to help? \u003Ca href=\"/w/Special:CreateAccount\" title=\"Special:CreateAccount\"\u003ECreate an account\u003C/a\u003E or \u003Ca href=\"/w/Special:UserLogin\" title=\"Special:UserLogin\"\u003Elog in\u003C/a\u003E to get started!\n\u003C/p\u003E\u003Cp\u003EBe sure to check out our \u003Ca href=\"/w/Hollow_Knight_Wiki:Editing_Guidelines\" title=\"Hollow Knight Wiki:Editing Guidelines\"\u003EEditing Guidelines\u003C/a\u003E, and use the Talk pages or visit our \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://discord.gg/DuVNd4s\"\u003EOfficial Wiki Discord Server\u003C/a\u003E before making any big changes.\n\u003C/p\u003E\u003Cp\u003EEnjoy your stay!\n\u003C/p\u003E\u003Cp\u003E-The Hollow Knight Wiki Team\n\u003C/p\u003E\n\u003C/div\u003E\n\u003Cdiv class=\"image-container\"\u003E\u003Cspan class=\"image\" typeof=\"mw:File\"\u003E\u003Cspan title=\"Hornet\"\u003E\u003Cimg alt=\"Hornet\" src=\"//cdn.wikimg.net/en/hkwiki/images/thumb/1/16/Hornet_Idle.png/100px-Hornet_Idle.png\" decoding=\"async\" width=\"100\" height=\"116\" class=\"mw-file-element\" srcset=\"//cdn.wikimg.net/en/hkwiki/images/thumb/1/16/Hornet_Idle.png/150px-Hornet_Idle.png 1.5x, //cdn.wikimg.net/en/hkwiki/images/1/16/Hornet_Idle.png 2x\" data-file-width=\"186\" data-file-height=\"216\" /\u003E\u003C/span\u003E\u003C/span\u003E\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script>	<!-- /1015505/HKW_728x90_ROS -->
+	<div id="div-gpt-ad-leader-top" class="leaderboard-ad-head _460e6x54466x6l4a6zh" data-ad-unit-id="/1015505/HKW_728x90_ROS">
+	  <script>
+	    relevantDigital.cmd.push(function() { rdSmartLoad('div-gpt-ad-leader-top'); });
+	  </script>
+	</div>
+</div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-protection-sysop-cascade" class="mw-indicator"><a class="mw-protection-indicator-icon--lock" title="This page is protected so that only users with the &quot;sysop&quot; permission can edit it." href="https://mediawiki.org/wiki/Special:MyLanguage/Help:Protection"><span>This page is protected so that only users with the "sysop" permission can edit it.</span></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">Template</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Hr</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Hollow Knight Wiki</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="https://hollowknight.wiki/w/Template:Hr#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="https://hollowknight.wiki/w/Template:Hr#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r117505"></style><div class="documentation"><div class="documentation-header-top"><span id="documentation-header-tools">[<a href="https://hollowknight.wiki/w/Template:Hr/doc" title="Template:Hr/doc">view</a>] [<a href="https://hollowknight.wiki/w/Special:EditPage/Template:Hr/doc" title="Special:EditPage/Template:Hr/doc">edit</a>] [<a href="https://hollowknight.wiki/w/Special:PageHistory/Template:Hr/doc" title="Special:PageHistory/Template:Hr/doc">history</a>] [<a href="https://hollowknight.wiki/w/Special:Purge/Template:Hr/doc" title="Special:Purge/Template:Hr/doc">refresh</a>]</span><span class="documentation-header-title">Documentation</span></div>
+<p>This template serves to separate content in an article.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Usage">Usage</h2></div>
+<p>Type <code>{{<a class="mw-selflink selflink">Hr</a>|<span class="typography--secondary"><i>&lt;type&gt;</i></span>}}</code> to use, where <code class="typography--secondary">&lt;type&gt;</code> is either <code><b>small</b></code> (for a small version of the divider consisting of a gradient line) or <code><b>SS</b></code> (for a <a href="https://hollowknight.wiki/w/Hollow_Knight:_Silksong" title="Hollow Knight: Silksong">Silksong</a>-themed divider). This parameter is optional.
+</p><p>It is also possible to set a custom margin for the divider using the <code><b>margin</b></code> parameter or hide it on mobile by using the <code><b>showonmobile</b></code> parameter and setting it to <code>false</code>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Examples:">Examples:</h2></div>
+<pre>{{Hr}}</pre>
+<div style="clear: both;"></div>
+<hr class="hk-divider">
+<p><br>
+</p>
+<pre>{{Hr|SS}}</pre>
+<div style="clear: both;"></div>
+<hr class="ss-divider">
+<p><br>
+</p>
+<pre>{{Hr|small}}</pre>
+<div style="clear: both;"></div>
+<hr class="gradient-divider" style="margin: 1.5rem 0;">
+<pre>{{Hr|small|margin=96px 0}}</pre>
+<div style="clear: both;"></div>
+<hr class="gradient-divider" style="margin: 96px 0;">
+<pre>{{Hr|showonmobile=false}}</pre>
+<div style="clear: both;"></div>
+<hr class="hk-divider hidden">
+<div class="documentation-header-bottom"><span id="documentation-header-tools">[<a href="https://hollowknight.wiki/w/Template:Hr/doc" title="Template:Hr/doc">view</a>] [<a href="https://hollowknight.wiki/w/Special:EditPage/Template:Hr/doc" title="Special:EditPage/Template:Hr/doc">edit</a>] [<a href="https://hollowknight.wiki/w/Special:PageHistory/Template:Hr/doc" title="Special:PageHistory/Template:Hr/doc">history</a>] [<a href="https://hollowknight.wiki/w/Special:Purge/Template:Hr/doc" title="Special:Purge/Template:Hr/doc">refresh</a>]</span>The above documentation is transcluded from <a href="https://hollowknight.wiki/w/Template:Hr/doc" title="Template:Hr/doc">Template:Hr/doc</a>.</div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20261007200829
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.043 seconds
+Real time usage: 0.064 seconds
+Preprocessor visited node count: 430/1000000
+Post‐expand include size: 5778/2097152 bytes
+Template argument size: 183/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 251/5000000 bytes
+Lua time usage: 0.025/7.000 seconds
+Lua memory usage: 494018/52428800 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   50.385      1 Template:Documentation
+100.00%   50.385      1 -total
+ 29.18%   14.704      1 Template:T
+ 17.37%    8.753     20 Template:T/piece
+ 12.03%    6.061      5 Template:Hr
+  6.49%    3.269      2 Template:Typography
+  5.01%    2.527      5 Template:Clear
+-->
+
+<!-- Saved in parser cache with key enhkwiki:pcache:idhash:3393-0!canonical and timestamp 20261007200829 and revision id 116503. Rendering was triggered because: page-view
+ -->
+</div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://hollowknight.wiki/mw/index.php?title=Template:Hr&amp;oldid=116503">https://hollowknight.wiki/mw/index.php?title=Template:Hr&amp;oldid=116503</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="https://hollowknight.wiki/w/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="https://hollowknight.wiki/mw/index.php?title=Category:Pages_using_DynamicPageList4_dplvar_parser_function&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages using DynamicPageList4 dplvar parser function (page does not exist)">Pages using DynamicPageList4 dplvar parser function</a></li><li><a href="https://hollowknight.wiki/w/Category:Templates" title="Category:Templates">Templates</a></li></ul></div></div>
+	</div>
+</div>
+<div id="mw-data-after-content">
+		<!-- /1015505/HKW_728x90_Footer -->
+	<div id="div-gpt-ad-leader-bot" class="leaderboard-ad-foot _460e6x54466x6l4a6zh" data-ad-unit-id="/1015505/HKW_728x90_Footer">
+	  <script>
+	    relevantDigital.cmd.push(function() { rdSmartLoad('div-gpt-ad-leader-bot'); });
+	  </script>
+	</div>
+
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu has-discord-button" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<a href="https://discord.gg/vNba7HW" rel="nofollow" title="Wiki Discord" id="wiki-discord-button">Wiki Discord</a><div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="mw-list-item"><a href="https://hollowknight.wiki/mw/index.php?title=Special:CreateAccount&amp;returnto=Template%3AHr" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="https://hollowknight.wiki/mw/index.php?title=Special:UserLogin&amp;returnto=Template%3AHr" title="You are encouraged to log in; however, it is not mandatory [alt-shift-o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-template" class="selected mw-list-item"><a href="https://hollowknight.wiki/w/Template:Hr" title="View the template [alt-shift-c]" accesskey="c"><span>Template</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="https://hollowknight.wiki/mw/index.php?title=Template_talk:Hr&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Discussion about the content page (page does not exist) [alt-shift-t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label">
+	<label id="p-variants-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label">
+	<h3 id="p-views-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item collapsible" style=""><a href="https://hollowknight.wiki/w/Template:Hr"><span>Read</span></a></li><li id="ca-viewsource" class="mw-list-item collapsible"><a href="https://hollowknight.wiki/mw/index.php?title=Template:Hr&amp;action=edit" title="This page is protected.
+You can view its source [alt-shift-e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="mw-list-item collapsible"><a href="https://hollowknight.wiki/mw/index.php?title=Template:Hr&amp;action=history" title="Past revisions of this page [alt-shift-h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label" title="More options">
+	<input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label">
+	<label id="p-cactions-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3>Search</h3>
+	<form action="https://hollowknight.wiki/mw/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation">
+			<input class="vector-search-box-input" type="search" name="search" placeholder="Search Hollow Knight Wiki" aria-label="Search Hollow Knight Wiki" autocapitalize="sentences" title="Search Hollow Knight Wiki [alt-shift-f]" accesskey="f" id="searchInput">
+			<input type="hidden" name="title" value="Special:Search">
+			<input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" value="Search">
+			<input id="searchButton" class="searchButton mw-mask-icon" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go" style="--icon: url(&quot;https://cdn.wikimg.net/skins/Vector/resources/skins.vector.styles.legacy/images/search.svg?9bffc&quot;);">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar collapsible-nav">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="https://hollowknight.wiki/w/Hollow_Knight_Wiki" title="Visit the main page"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu first persistent" aria-labelledby="p-navigation-label">
+	<h3 id="p-navigation-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="https://hollowknight.wiki/w/Hollow_Knight_Wiki" title="Visit the main page [alt-shift-z]" accesskey="z"><span>Main page</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="https://hollowknight.wiki/w/Special:RecentChanges" title="A list of recent changes in the wiki [alt-shift-r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="https://hollowknight.wiki/w/Special:Random" title="Load a random page [alt-shift-x]" accesskey="x"><span>Random page</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-Silksong" class="mw-portlet mw-portlet-Silksong vector-menu-portal portal vector-menu expanded" aria-labelledby="p-Silksong-label">
+	<h3 id="p-Silksong-label" class="vector-menu-heading " tabindex="0"><a href="https://hollowknight.wiki/w/Template:Hr#" aria-haspopup="true" aria-controls="p-Silksong-list" role="button" aria-pressed="true" aria-expanded="true">
+		<span class="vector-menu-heading-label">Silksong</span>
+	</a></h3>
+	<div class="vector-menu-content" style="display: block;">
+		
+		<ul class="vector-menu-content-list" id="p-Silksong-list">
+			
+			<li id="n-Hornet" class="mw-list-item"><a href="https://hollowknight.wiki/w/Hornet_(Silksong)"><span>Hornet</span></a></li><li id="n-Needle" class="mw-list-item"><a href="https://hollowknight.wiki/w/Needle"><span>Needle</span></a></li><li id="n-Crests" class="mw-list-item"><a href="https://hollowknight.wiki/w/Crests"><span>Crests</span></a></li><li id="n-Tools" class="mw-list-item"><a href="https://hollowknight.wiki/w/Tools"><span>Tools</span></a></li><li id="n-Skills-and-Abilities" class="mw-list-item"><a href="https://hollowknight.wiki/w/Skills_and_Abilities_(Silksong)"><span>Skills and Abilities</span></a></li><li id="n-Items" class="mw-list-item"><a href="https://hollowknight.wiki/w/Items_(Silksong)"><span>Items</span></a></li><li id="n-Areas" class="mw-list-item"><a href="https://hollowknight.wiki/w/Areas_(Silksong)"><span>Areas</span></a></li><li id="n-Acts" class="mw-list-item"><a href="https://hollowknight.wiki/w/Acts"><span>Acts</span></a></li><li id="n-Wishes" class="mw-list-item"><a href="https://hollowknight.wiki/w/Wishes"><span>Wishes</span></a></li><li id="n-Combat" class="mw-list-item"><a href="https://hollowknight.wiki/w/Combat_(Silksong)"><span>Combat</span></a></li><li id="n-Enemies" class="mw-list-item"><a href="https://hollowknight.wiki/w/Enemies_(Silksong)"><span>Enemies</span></a></li><li id="n-Bosses" class="mw-list-item"><a href="https://hollowknight.wiki/w/Bosses_(Silksong)"><span>Bosses</span></a></li><li id="n-NPCs" class="mw-list-item"><a href="https://hollowknight.wiki/w/NPCs_(Silksong)"><span>NPCs</span></a></li><li id="n-Cut-Content" class="mw-list-item"><a href="https://hollowknight.wiki/w/Cut_Content_(Silksong)"><span>Cut Content</span></a></li><li id="n-Updates" class="mw-list-item"><a href="https://hollowknight.wiki/w/Updates_(Silksong)"><span>Updates</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-Hollow_Knight" class="mw-portlet mw-portlet-Hollow_Knight vector-menu-portal portal vector-menu collapsed" aria-labelledby="p-Hollow_Knight-label">
+	<h3 id="p-Hollow_Knight-label" class="vector-menu-heading " tabindex="0"><a href="https://hollowknight.wiki/w/Template:Hr#" aria-haspopup="true" aria-controls="p-Hollow_Knight-list" role="button" aria-pressed="false" aria-expanded="false">
+		<span class="vector-menu-heading-label">Hollow Knight</span>
+	</a></h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list" id="p-Hollow_Knight-list">
+			
+			<li id="n-The-Knight" class="mw-list-item"><a href="https://hollowknight.wiki/w/The_Knight"><span>The Knight</span></a></li><li id="n-Nail" class="mw-list-item"><a href="https://hollowknight.wiki/w/Nail"><span>Nail</span></a></li><li id="n-Charms" class="mw-list-item"><a href="https://hollowknight.wiki/w/Charms"><span>Charms</span></a></li><li id="n-Spells-and-Abilities" class="mw-list-item"><a href="https://hollowknight.wiki/w/Spells_and_Abilities_(Hollow_Knight)"><span>Spells and Abilities</span></a></li><li id="n-Items" class="mw-list-item"><a href="https://hollowknight.wiki/w/Items_(Hollow_Knight)"><span>Items</span></a></li><li id="n-Areas" class="mw-list-item"><a href="https://hollowknight.wiki/w/Areas_(Hollow_Knight)"><span>Areas</span></a></li><li id="n-Points-of-Interest" class="mw-list-item"><a href="https://hollowknight.wiki/w/Points_of_Interest_(Hollow_Knight)"><span>Points of Interest</span></a></li><li id="n-Enemies" class="mw-list-item"><a href="https://hollowknight.wiki/w/Enemies_(Hollow_Knight)"><span>Enemies</span></a></li><li id="n-Bosses" class="mw-list-item"><a href="https://hollowknight.wiki/w/Bosses_(Hollow_Knight)"><span>Bosses</span></a></li><li id="n-NPCs" class="mw-list-item"><a href="https://hollowknight.wiki/w/NPCs_(Hollow_Knight)"><span>NPCs</span></a></li><li id="n-Cut-Content" class="mw-list-item"><a href="https://hollowknight.wiki/w/Cut_Content_(Hollow_Knight)"><span>Cut Content</span></a></li><li id="n-Achievements" class="mw-list-item"><a href="https://hollowknight.wiki/w/Achievements_(Hollow_Knight)"><span>Achievements</span></a></li><li id="n-Endings" class="mw-list-item"><a href="https://hollowknight.wiki/w/Endings_(Hollow_Knight)"><span>Endings</span></a></li><li id="n-Completion" class="mw-list-item"><a href="https://hollowknight.wiki/w/Completion_(Hollow_Knight)"><span>Completion</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-Lore" class="mw-portlet mw-portlet-Lore vector-menu-portal portal vector-menu collapsed" aria-labelledby="p-Lore-label">
+	<h3 id="p-Lore-label" class="vector-menu-heading " tabindex="0"><a href="https://hollowknight.wiki/w/Template:Hr#" aria-haspopup="true" aria-controls="p-Lore-list" role="button" aria-pressed="false" aria-expanded="false">
+		<span class="vector-menu-heading-label">Lore</span>
+	</a></h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list" id="p-Lore-list">
+			
+			<li id="n-Hallownest" class="mw-list-item"><a href="https://hollowknight.wiki/w/Hallownest"><span>Hallownest</span></a></li><li id="n-Pharloom" class="mw-list-item"><a href="https://hollowknight.wiki/w/Pharloom"><span>Pharloom</span></a></li><li id="n-Characters" class="mw-list-item"><a href="https://hollowknight.wiki/w/Lore#Characters"><span>Characters</span></a></li><li id="n-Groups-and-Peoples" class="mw-list-item"><a href="https://hollowknight.wiki/w/Lore#Groups"><span>Groups and Peoples</span></a></li><li id="n-Higher-Beings" class="mw-list-item"><a href="https://hollowknight.wiki/w/Higher_Beings"><span>Higher Beings</span></a></li><li id="n-Lifeblood" class="mw-list-item"><a href="https://hollowknight.wiki/w/Lifeblood"><span>Lifeblood</span></a></li><li id="n-Void" class="mw-list-item"><a href="https://hollowknight.wiki/w/Void"><span>Void</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu collapsed" aria-labelledby="p-tb-label">
+	<h3 id="p-tb-label" class="vector-menu-heading " tabindex="0"><a href="https://hollowknight.wiki/w/Template:Hr#" aria-haspopup="true" aria-controls="p-tb-list" role="button" aria-pressed="false" aria-expanded="false">
+		<span class="vector-menu-heading-label">Tools</span>
+	</a></h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list" id="p-tb-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="https://hollowknight.wiki/w/Special:WhatLinksHere/Template:Hr" title="A list of all wiki pages that link here [alt-shift-j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="https://hollowknight.wiki/w/Special:RecentChangesLinked/Template:Hr" rel="nofollow" title="Recent changes in pages linked from this page [alt-shift-k]" accesskey="k"><span>Related changes</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="https://hollowknight.wiki/w/Special:SpecialPages" title="A list of all special pages [alt-shift-q]" accesskey="q"><span>Special pages</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [alt-shift-p]" accesskey="p"><span>Printable version</span></a></li><li id="t-permalink" class="mw-list-item"><a href="https://hollowknight.wiki/mw/index.php?title=Template:Hr&amp;oldid=116503" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="https://hollowknight.wiki/mw/index.php?title=Template:Hr&amp;action=info" title="More information about this page"><span>Page information</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 28 October 2023, at 23:02.</li>
+	<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://hollowknight.wiki/w/Hollow_Knight_Wiki:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="https://hollowknight.wiki/w/Hollow_Knight_Wiki:About">About Hollow Knight Wiki</a></li>
+	<li id="footer-places-disclaimers"><a href="https://hollowknight.wiki/w/Hollow_Knight_Wiki:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-mobileview"><a href="https://hollowknight.wiki/mw/index.php?title=Template:Hr&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://creativecommons.org/licenses/by-sa/3.0/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="./divider2_files/cc-by-sa.png" alt="Commons Attribution-ShareAlike" width="88" height="31" loading="lazy"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="./divider2_files/poweredby_mediawiki.svg" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+	<li id="footer-strategywikiico"><a href="https://strategywiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="./divider2_files/Powered_by_StrategyWiki_Button.png" alt="Powered by StrategyWiki" srcset="https://cdn.wikimg.net/en/strategywiki/images/f/f0/Powered_by_StrategyWiki_Button2x.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+<script src="./divider2_files/js" async=""></script><script>
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-708V2NQY2Y', {});
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":203,"wgPageParseReport":{"limitreport":{"cputime":"0.043","walltime":"0.064","ppvisitednodes":{"value":430,"limit":1000000},"postexpandincludesize":{"value":5778,"limit":2097152},"templateargumentsize":{"value":183,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":251,"limit":5000000},"timingprofile":["100.00%   50.385      1 Template:Documentation","100.00%   50.385      1 -total"," 29.18%   14.704      1 Template:T"," 17.37%    8.753     20 Template:T/piece"," 12.03%    6.061      5 Template:Hr","  6.49%    3.269      2 Template:Typography","  5.01%    2.527      5 Template:Clear"]},"scribunto":{"limitreport-timeusage":{"value":"0.025","limit":"7.000"},"limitreport-memusage":{"value":494018,"limit":52428800}},"cachereport":{"timestamp":"20261007200829","ttl":86400,"transientcontent":false}}});});</script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a46f89be1872e593',t:'MTc5MTQwMzcwOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: hidden;" src="./divider2_files/saved_resource.html"></iframe>
+<iframe name="__tcfapiLocator" style="display: none;" src="./divider2_files/saved_resource(1).html"></iframe><iframe name="__gppLocator" style="display: none;" src="./divider2_files/saved_resource(2).html"></iframe><div class="hk-wiki-prompt-container"><span class="hk-wiki-prompt hk-wiki-prompt-visible">...wisdom...</span><span class="hk-wiki-prompt"></span></div><div class="rt-overlay"></div><div id="mw-teleport-target" class="vector-body"></div></body></html>
