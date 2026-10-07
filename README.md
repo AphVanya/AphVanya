@@ -2,6 +2,9 @@
 <a href="https://taiyaraiya.straw.page">
 <img src="gitbanner.png" alt="Description" width="1000" height="400">
 </a>
+  <p align="right">
+$\color{white}{I}$ $\color{white}{doubt}$ $\color{white}{that}$ $\color{white}{you}$ $\color{white}{would,}$ $\color{white}{even}$ $\color{white}{if}$ $\color{white}{you}$ $\color{white}{could}$ $\color{white}{change}$<br/>
+$\color{white}{The}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white}{make}$ $\color{white}{you}$ $\color{white}{special}$ $\color{white}{are}$ $\color{white}{the}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white}{make}$ $\color{white}{you}$ $\color{white}{strange}$ 
   
  
 
