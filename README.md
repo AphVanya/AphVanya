@@ -2,12 +2,14 @@
 <a href="https://taiyaraiya.straw.page">
 <img src="gitbanner.png" alt="Description" width="1000" height="400">
 </a>
-  <p align="right">
+    <p align="center">
+<img src="prompt_divider.png" alt="Description" width="1000" height="100">
+  <p align="center">
 $\color{white}{I}$ $\color{white}{doubt}$ $\color{white}{that}$ $\color{white}{you}$ $\color{white}{would,}$ $\color{white}{even}$ $\color{white}{if}$ $\color{white}{you}$ $\color{white}{could}$ $\color{white}{change}$<br/>
 $\color{white}{The}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white}{make}$ $\color{white}{you}$ $\color{white}{special}$ $\color{white}{are}$ $\color{white}{the}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white}{make}$ $\color{white}{you}$ $\color{white}{strange}$ 
-  
- 
-
+    
+<p align="center">
+<img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
  ‎ 
  ‎ ‎
 
@@ -34,8 +36,9 @@ $\color{white}{The}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white
  ‎ ‎
 
 
-## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！<p align="center">
-<img src="divider1.png" alt="Description" width="350" height="100">
+ ## — $\color{white}{(BYI)}$ $\color{white}{Before}$ $\color{white}{You}$ $\color{white}{Interact}$ !！<p align="center">
+<p align="center">
+<img src="prompt_divider.png" alt="Description" width="1000" height="100">
 
 >  -  **I'm very sociable and $\color{white}{interaction}$ $\color{white}{is}$ $\color{white}{encouraged}$, however I prefer to $\color{white}{talk}$ $\color{white}{in}$ $\color{white}{PMs}$ rather than public chat.**
 >  If we happen to share some things you also like, give me a PM in-game ..
@@ -47,10 +50,18 @@ $\color{white}{The}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white
 >  -  $\color{white}{I}$ $\color{white}{am}$ $\color{white}{not}$ a roleplay account, fictionkin, system nor yumeshipper, I just relate and find comfort in many characters.
 >  -  **$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$**, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping, liking specific fandoms, ect. unless you are purposefully derogatory towards others and/or support darkships.
 
----
+<p align="center">
+<img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
+  
+ 
+
+ ‎ 
+ ‎ ‎
+
 
 ## — $\color{white}{(Active)}$ $\color{white}{Interests}$
-<img src="divider1.png" alt="Description" width="350" height="100">
+<p align="center">
+<img src="prompt_divider.png" alt="Description" width="1000" height="100">
 
 >  -  Life Series, Hermitcraft, Unstable Universe, STATE <br/>
 >  -  Block Tales, ORISON <br/>
@@ -59,7 +70,8 @@ $\color{white}{The}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white
 >  -  ARGs/puzzles, psychology, architecture, graphic design & digital design, 3D modeling <br/>
 >  -  Will Wood, The Crane Wives, Laufey
 
----
+<p align="center">
+<img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
 
 $\color{white}{UPDATED:}$ $\color{white}{6th}$ $\color{white}{October,}$ $\color{white}{2026.}$
 
