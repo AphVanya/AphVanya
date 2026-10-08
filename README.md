@@ -70,13 +70,33 @@ $\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\co
 <p align="center"> <img src="div2.png" alt="Description" width="500" height="50">
 <p align="center"> <img src="prompt_divider.png" alt="Description" width="1000" height="100">
 
-<p align="center">
-Life Series, Hermitcraft, Unstable Universe, STATE <br/>
-Block Tales, ORISON <br/>
-Hollow Knight, Hollow Knight: SIlksong, Z.A.T.O. <br/>
-Hetalia, Hamilton <br/>
-ARGs/puzzles, psychology, architecture, graphic design & digital design, 3D modeling <br/>
-Will Wood, The Crane Wives, Laufey
+<p align="center"> <img src="i1.png" alt="Description" width="200" height="50">
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{Life}$ $\color{white}{Series,}$ $\color{white}{Hermitcraft,}$ $\color{white}UnstableI}$ $\color{white}{Universe,}$ $\color{white}{STATE}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+
+ ‎ 
+ ‎ 
+<p align="center"> <img src="i2.png" alt="Description" width="200" height="50">
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{Block}$ $\color{white}{Tales,}$ $\color{white}{ORISON}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+
+ ‎ 
+ ‎ 
+<p align="center"> <img src="i3.png" alt="Description" width="200" height="50">
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{Hollow}$ $\color{white}{Knight,}$ $\color{white}{Hollow}$ $\color{white}{Knight:}$ $\color{white}{Silksong,}$ $\color{white}{Z.A.T.O.}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+
+ ‎ 
+ ‎ 
+<p align="center"> <img src="i4.png" alt="Description" width="200" height="50">
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{Hetalia,}$ $\color{white}{Hamilton}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+
+ ‎ 
+ ‎ 
+<p align="center"> <img src="i5.png" alt="Description" width="200" height="50">
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{ARGs/puzzles,}$ $\color{white}{psycology,}$ $\color{white}{architecture,}$ $\color{white}{graphic}$ $\color{white}{design}$ $\color{white}{&}$ $\color{white}{digital}$ $\color{white}{design,}$ $\color{white}{3D}$ $\color{white}{modeling}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+
+ ‎ 
+ ‎ 
+<p align="center"> <img src="i6.png" alt="Description" width="200" height="50">
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{Will}$ $\color{white}{Wood,}$ $\color{white}{The}$ $\color{white}{Crane}$ $\color{white}{Wives,}$ $\color{white}{Laufey}$ <img src="pointerright.png" alt="Description" width="30" height=""15>
 </p>
 
 <p align="center">
