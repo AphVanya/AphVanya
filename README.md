@@ -91,7 +91,7 @@ $\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\co
  ‎ 
  ‎ 
 <p align="center"> <img src="i5.png" alt="Description" width="200" height="50">
-<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> ARGs/puz$\color{white}{zles,}$ psyco$\color{white}{logy,}$ archite$\color{white}{cture,}$ grap$\color{white}{hic}$ & digi$\color{white}{tal}$ desi$\color{white}{gn,}$ 3D mode$\color{white}{ling}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> ARGs/puz $\color{white}{zles,}$ psyco $\color{white}{logy,}$ archite $\color{white}{cture,}$ grap $\color{white}{hic}$ & digi $\color{white}{tal}$ desi $\color{white}{gn,}$ 3D mode $\color{white}{ling}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
 
  ‎ 
  ‎ 
