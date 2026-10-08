@@ -71,7 +71,7 @@ $\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\co
 <p align="center"> <img src="prompt_divider.png" alt="Description" width="1000" height="100">
 
 <p align="center"> <img src="i1.png" alt="Description" width="200" height="50">
-<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{Life}$ $\color{white}{Series,}$ $\color{white}{Hermitcraft,}$ $\color{white}UnstableI}$ $\color{white}{Universe,}$ $\color{white}{STATE}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{Life}$ $\color{white}{Series,}$ $\color{white}{Hermitcraft,}$ $\color{white}{Unstable}$ $\color{white}{Universe,}$ $\color{white}{STATE}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
 
  ‎ 
  ‎ 
@@ -91,7 +91,7 @@ $\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\co
  ‎ 
  ‎ 
 <p align="center"> <img src="i5.png" alt="Description" width="200" height="50">
-<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{ARGs/puzzles,}$ $\color{white}{psycology,}$ $\color{white}{architecture,}$ $\color{white}{graphic}$ $\color{white}{design}$ $\color{white}{&}$ $\color{white}{digital}$ $\color{white}{design,}$ $\color{white}{3D}$ $\color{white}{modeling}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15> $\color{white}{ARGs/puzzles,}$ $\color{white}{psycology,}$ $\color{white}{architecture,}$ $\color{white}{graphic}$ & $\color{white}{digital}$ $\color{white}{design,}$ $\color{white}{3D}$ $\color{white}{modeling}$ <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
 
  ‎ 
  ‎ 
