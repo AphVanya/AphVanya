@@ -47,7 +47,7 @@ If you don't like directly talking to people, you can always just leave a messag
 <br/>
 If i take a liking to you, I $\color{white}{may}$ come sit next to you if you have $\color{white}{public}$ $\color{white}{C+H}$ $\color{white}{permissions}$, otherwise I will just send a PM. <br/>
 </p>
-<p align="center"> <img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
+<p align="center"> <img src="Inv_0017_divider.png" alt="Description" width="700" height="3">
 <p align="center">
 $\color{white}{I}$ $\color{white}{am}$ $\color{white}{not}$ a roleplay account, fictionkin, system nor yumeshipper, I just relate and find comfort in many characters. <br/>
 <br/>
@@ -105,7 +105,7 @@ $\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\co
 <p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15>  $\color{white}{ARGs/puzzles,}$ $\color{white}{psycology,}$ $\color{white}{architecture,}$ $\color{white}{graphic}$ & $\color{white}{digital}$ $\color{white}{design,}$ $\color{white}{3D}$ $\color{white}{modeling}$  <img src="pointerright.png" alt="Description" width="30" height=""15> <br/>
 
 <p align="center">
-<img src="Inv_0017_divider.png" alt="Description" width="700" height="3">
+<img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
 
 $\color{white}{UPDATED:}$ $\color{white}{6th}$ $\color{white}{October,}$ $\color{white}{2026.}$
 
