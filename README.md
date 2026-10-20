@@ -95,7 +95,7 @@ $\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\co
  ‎ 
   ‎ 
  <p align="center"> <img src="i6.png" alt="Description" width="200" height="50">
-<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15>  $\color{white}{Will}$ $\color{white}{Wood,}$ $\color{white}{Will}$ $\color{white}{Wood}$ $\color{white}{and}$ $\color{white}{the}$ $\color{white}{Tapeworms,}$ $\color{white}{The}$ $\color{white}{Crane}$ $\color{white}{Wives,}$ $\color{white}{Laufey}$  <img src="pointerright.png" alt="Description" width="30" height=""15>
+<p align="center"> <img src="pointerleft.png" alt="Description" width="30" height=""15>  $\color{white}{Will}$ $\color{white}{Wood,}$ $\color{white}{Will}$ $\color{white}{Wood}$ $\color{white}{and}$ $\color{white}{the}$ $\color{white}{Tapeworms,}$ $\color{white}{The}$ $\color{white}{Crane}$ $\color{white}{Wives}$ <img src="pointerright.png" alt="Description" width="30" height=""15>
 </p>
 
  <p align="center"> <img src="Inv_0017_divider.png" alt="Description" width="700" height="3">
