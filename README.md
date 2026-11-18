@@ -15,7 +15,7 @@ $\color{white}{The}$ $\color{white}{things}$ $\color{white}{that}$ $\color{white
 
 
 <p align="center">
-<a href="https://taiyaraiya.atabook.org">
+<a href="https://taiyaraiya.straw.page/info">
 <img src="ribbon.png" alt="Description" width="150" height="150">
 </a>
 
