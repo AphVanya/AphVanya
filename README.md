@@ -51,7 +51,7 @@ If i take a liking to you, I $\color{white}{may}$ come sit next to you if you ha
 <p align="center">
 $\color{white}{I}$ $\color{white}{am}$ $\color{white}{not}$ a roleplay account, fictionkin, system nor yumeshipper, I just relate and find comfort in many characters. <br/>
 <br/>
-$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping, liking specific fandoms, ect. $\color{white}{unless}$ you ship $\color{white}{(or ship yourself with)}$ real people, which includes content creators. <br/>
+$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping, liking specific fandoms, ect. $\color{white}{unless}$ you ship $\color{white}{(or}$ $\color{white}{ship}$ $\color{white}{yourself}$ $\color{white}{with)}$ real people, which includes content creators. <br/>
 </p>
 <p align="center"> <img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
     
