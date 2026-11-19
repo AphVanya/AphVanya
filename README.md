@@ -51,9 +51,8 @@ If i take a liking to you, I $\color{white}{may}$ come sit next to you if you ha
 <p align="center">
 $\color{white}{I}$ $\color{white}{am}$ $\color{white}{not}$ a roleplay account, fictionkin, system nor yumeshipper, I just relate and find comfort in many characters. <br/>
 <br/>
-$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping, liking specific fandoms, ect. unless you are purposefully derogatory towards others and/or support darkships. <br/>
+$\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\color{white}{NOT}$ be blocked for having different viewpoints, kinning, shipping, liking specific fandoms, ect. $\color{white}{unless}$ you ship $\color{white}{(or ship yourself with)}$ real people, which includes content creators. <br/>
 </p>
-
 <p align="center"> <img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
     
  
@@ -107,7 +106,7 @@ $\color{white}{I}$ $\color{white}{block}$ $\color{white}{freely}$, you will $\co
 <p align="center">
 <img src="Inv_0017_divider.png" alt="Description" width="1000" height="3">
 
-$\color{white}{UPDATED:}$ $\color{white}{6th}$ $\color{white}{October,}$ $\color{white}{2026.}$
+$\color{white}{UPDATED:}$ $\color{white}{19th}$ $\color{white}{November,}$ $\color{white}{2026.}$
 
 <img width="350" height="60" alt="image" src="https://github.com/user-attachments/assets/614adcb0-112e-4b73-93ef-1f1d4affae39" />
 
